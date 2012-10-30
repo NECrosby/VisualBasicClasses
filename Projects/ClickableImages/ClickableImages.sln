@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ClickableImages", "ClickableImages\ClickableImages.vbproj", "{329C04B5-798B-47C5-B06F-E011BCD5178F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{329C04B5-798B-47C5-B06F-E011BCD5178F}.Debug|x86.ActiveCfg = Debug|x86
+		{329C04B5-798B-47C5-B06F-E011BCD5178F}.Debug|x86.Build.0 = Debug|x86
+		{329C04B5-798B-47C5-B06F-E011BCD5178F}.Release|x86.ActiveCfg = Release|x86
+		{329C04B5-798B-47C5-B06F-E011BCD5178F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Chapter3Widgets\Chapter3Widgets\bin\Debug\Chapter3Widgets.exe
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Chapter3Widgets\Chapter3Widgets\bin\Debug\Chapter3Widgets.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Chapter3Widgets\Chapter3Widgets\bin\Debug\Chapter3Widgets.xml
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Chapter3Widgets\Chapter3Widgets\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Chapter3Widgets\Chapter3Widgets\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Chapter3Widgets\Chapter3Widgets\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Chapter3Widgets\Chapter3Widgets\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Chapter3Widgets\Chapter3Widgets\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Chapter3Widgets\Chapter3Widgets\obj\x86\Debug\Chapter3Widgets.exe
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Chapter3Widgets\Chapter3Widgets\obj\x86\Debug\Chapter3Widgets.xml
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Chapter3Widgets\Chapter3Widgets\obj\x86\Debug\Chapter3Widgets.pdb

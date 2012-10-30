@@ -1,0 +1,22 @@
+C:\Users\Owner\AppData\Local\Temporary Projects\Chapter4\bin\Debug\Chapter4.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\Chapter4\bin\Debug\Chapter4.pdb
+C:\Users\Owner\AppData\Local\Temporary Projects\Chapter4\bin\Debug\Chapter4.xml
+C:\Users\Owner\AppData\Local\Temporary Projects\Chapter4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\AppData\Local\Temporary Projects\Chapter4\obj\x86\Debug\Chapter4.Form1.resources
+C:\Users\Owner\AppData\Local\Temporary Projects\Chapter4\obj\x86\Debug\Chapter4.Resources.resources
+C:\Users\Owner\AppData\Local\Temporary Projects\Chapter4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Owner\AppData\Local\Temporary Projects\Chapter4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Owner\AppData\Local\Temporary Projects\Chapter4\obj\x86\Debug\Chapter4.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\Chapter4\obj\x86\Debug\Chapter4.xml
+C:\Users\Owner\AppData\Local\Temporary Projects\Chapter4\obj\x86\Debug\Chapter4.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\Chapter4\Chapter4\obj\x86\Debug\Chapter4.exe
+C:\Users\Owner\documents\visual studio 2010\Projects\Chapter4\Chapter4\obj\x86\Debug\Chapter4.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\Chapter4\Chapter4\obj\x86\Debug\Chapter4.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Chapter4\Chapter4\bin\Debug\Chapter4.exe
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Chapter4\Chapter4\bin\Debug\Chapter4.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Chapter4\Chapter4\bin\Debug\Chapter4.xml
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Chapter4\Chapter4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Chapter4\Chapter4\obj\x86\Debug\Chapter4.Form1.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Chapter4\Chapter4\obj\x86\Debug\Chapter4.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Chapter4\Chapter4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Chapter4\Chapter4\obj\x86\Debug\GenerateResource.write.1.tlog

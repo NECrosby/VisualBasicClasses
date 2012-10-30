@@ -1,0 +1,11 @@
+C:\Users\Owner\documents\visual studio 2010\Projects\DirectionsApplication\DirectionsApplication\bin\Debug\DirectionsApplication.exe
+C:\Users\Owner\documents\visual studio 2010\Projects\DirectionsApplication\DirectionsApplication\bin\Debug\DirectionsApplication.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\DirectionsApplication\DirectionsApplication\bin\Debug\DirectionsApplication.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\DirectionsApplication\DirectionsApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\documents\visual studio 2010\Projects\DirectionsApplication\DirectionsApplication\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Owner\documents\visual studio 2010\Projects\DirectionsApplication\DirectionsApplication\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Owner\documents\visual studio 2010\Projects\DirectionsApplication\DirectionsApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Owner\documents\visual studio 2010\Projects\DirectionsApplication\DirectionsApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Owner\documents\visual studio 2010\Projects\DirectionsApplication\DirectionsApplication\obj\x86\Debug\DirectionsApplication.exe
+C:\Users\Owner\documents\visual studio 2010\Projects\DirectionsApplication\DirectionsApplication\obj\x86\Debug\DirectionsApplication.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\DirectionsApplication\DirectionsApplication\obj\x86\Debug\DirectionsApplication.pdb

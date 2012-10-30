@@ -1,0 +1,11 @@
+C:\Users\Owner\documents\visual studio 2010\Projects\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.exe
+C:\Users\Owner\documents\visual studio 2010\Projects\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\LatinTranslator\LatinTranslator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\documents\visual studio 2010\Projects\LatinTranslator\LatinTranslator\obj\x86\Debug\Directions.Form1.resources
+C:\Users\Owner\documents\visual studio 2010\Projects\LatinTranslator\LatinTranslator\obj\x86\Debug\Directions.Resources.resources
+C:\Users\Owner\documents\visual studio 2010\Projects\LatinTranslator\LatinTranslator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Owner\documents\visual studio 2010\Projects\LatinTranslator\LatinTranslator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Owner\documents\visual studio 2010\Projects\LatinTranslator\LatinTranslator\obj\x86\Debug\LatinTranslator.exe
+C:\Users\Owner\documents\visual studio 2010\Projects\LatinTranslator\LatinTranslator\obj\x86\Debug\LatinTranslator.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\LatinTranslator\LatinTranslator\obj\x86\Debug\LatinTranslator.pdb

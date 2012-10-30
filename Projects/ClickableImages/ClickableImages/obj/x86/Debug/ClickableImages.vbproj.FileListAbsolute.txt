@@ -1,0 +1,22 @@
+C:\Users\Owner\AppData\Local\Temporary Projects\ClickableImages\bin\Debug\ClickableImages.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\ClickableImages\bin\Debug\ClickableImages.pdb
+C:\Users\Owner\AppData\Local\Temporary Projects\ClickableImages\bin\Debug\ClickableImages.xml
+C:\Users\Owner\AppData\Local\Temporary Projects\ClickableImages\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\AppData\Local\Temporary Projects\ClickableImages\obj\x86\Debug\ClickableImages.Form1.resources
+C:\Users\Owner\AppData\Local\Temporary Projects\ClickableImages\obj\x86\Debug\ClickableImages.Resources.resources
+C:\Users\Owner\AppData\Local\Temporary Projects\ClickableImages\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Owner\AppData\Local\Temporary Projects\ClickableImages\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Owner\AppData\Local\Temporary Projects\ClickableImages\obj\x86\Debug\ClickableImages.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\ClickableImages\obj\x86\Debug\ClickableImages.xml
+C:\Users\Owner\AppData\Local\Temporary Projects\ClickableImages\obj\x86\Debug\ClickableImages.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\ClickableImages\ClickableImages\obj\x86\Debug\ClickableImages.exe
+C:\Users\Owner\documents\visual studio 2010\Projects\ClickableImages\ClickableImages\obj\x86\Debug\ClickableImages.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\ClickableImages\ClickableImages\obj\x86\Debug\ClickableImages.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\ClickableImages\ClickableImages\bin\Debug\ClickableImages.exe
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\ClickableImages\ClickableImages\bin\Debug\ClickableImages.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\ClickableImages\ClickableImages\bin\Debug\ClickableImages.xml
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\ClickableImages\ClickableImages\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\ClickableImages\ClickableImages\obj\x86\Debug\ClickableImages.Form1.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\ClickableImages\ClickableImages\obj\x86\Debug\ClickableImages.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\ClickableImages\ClickableImages\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\ClickableImages\ClickableImages\obj\x86\Debug\GenerateResource.write.1.tlog
