@@ -1,0 +1,9 @@
+C:\Visual Studio\Projects\Examples\Naomi\Rental\Rental.Data\bin\Debug\Rental.Data.dll
+C:\Visual Studio\Projects\Examples\Naomi\Rental\Rental.Data\bin\Debug\Rental.Data.pdb
+C:\Visual Studio\Projects\Examples\Naomi\Rental\Rental.Data\bin\Debug\Rental.Data.xml
+C:\Visual Studio\Projects\Examples\Naomi\Rental\Rental.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Visual Studio\Projects\Examples\Naomi\Rental\Rental.Data\obj\Debug\Rental.Data.Resources.resources
+C:\Visual Studio\Projects\Examples\Naomi\Rental\Rental.Data\obj\Debug\Rental.Data.vbproj.GenerateResource.Cache
+C:\Visual Studio\Projects\Examples\Naomi\Rental\Rental.Data\obj\Debug\Rental.Data.dll
+C:\Visual Studio\Projects\Examples\Naomi\Rental\Rental.Data\obj\Debug\Rental.Data.xml
+C:\Visual Studio\Projects\Examples\Naomi\Rental\Rental.Data\obj\Debug\Rental.Data.pdb

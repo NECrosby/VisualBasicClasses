@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Squares">
+</Property><Property Name="Solution File" Value="C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Squares.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Squares.suo">
+</Property><Property Name="Date" Value="Wednesday, August 17, 2011">
+</Property><Property Name="Time" Value="20:06 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Squares.sln" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Backup\Squares.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Squares.suo" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Backup\Squares.suo">
+</Event><Event ErrorLevel="0" Project="Squares" Source="Squares\Squares.vbproj" Description="Project file successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Backup\Squares\Squares.vbproj">
+</Event><Event ErrorLevel="0" Project="Squares" Source="Squares\Squares.vbproj.user" Description="Project user file successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Backup\Squares\Squares.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Squares" Source="Squares\FormSquare.vb" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Backup\Squares\FormSquare.vb">
+</Event><Event ErrorLevel="0" Project="Squares" Source="Squares\FormSquare.Designer.vb" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Backup\Squares\FormSquare.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Squares" Source="Squares\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Backup\Squares\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Squares" Source="Squares\My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Backup\Squares\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Squares" Source="Squares\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Backup\Squares\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Squares" Source="Squares\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Backup\Squares\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Squares" Source="Squares\Square.vb" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Backup\Squares\Square.vb">
+</Event><Event ErrorLevel="0" Project="Squares" Source="Squares\SquareCollection.vb" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Backup\Squares\SquareCollection.vb">
+</Event><Event ErrorLevel="0" Project="Squares" Source="Squares\My Project\Application.myapp" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Backup\Squares\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Squares" Source="Squares\My Project\Settings.settings" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Backup\Squares\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Squares" Source="Squares\FormSquare.resx" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Backup\Squares\FormSquare.resx">
+</Event><Event ErrorLevel="0" Project="Squares" Source="Squares\My Project\Resources.resx" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Backup\Squares\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Squares" Source="Squares\Squares.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Squares" Source="Squares\Squares.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Squares.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Squares.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Squares" Source="Squares\Squares.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,4 @@
+This program is to be used only by DocCon.  
+It's purpose is to move completed documents 
+to their respective directories once they 
+have been approved by DocCon.

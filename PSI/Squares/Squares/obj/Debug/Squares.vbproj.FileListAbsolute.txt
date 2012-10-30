@@ -1,0 +1,21 @@
+C:\Visual Studio\Projects\Examples\Naomi\Squares\Squares\obj\Debug\ResolveAssemblyReference.cache
+C:\Visual Studio\Projects\Examples\Naomi\Squares\Squares\obj\Debug\Squares.FormSquares.resources
+C:\Visual Studio\Projects\Examples\Naomi\Squares\Squares\obj\Debug\Squares.Resources.resources
+C:\Visual Studio\Projects\Examples\Naomi\Squares\Squares\obj\Debug\Squares.vbproj.GenerateResource.Cache
+C:\Visual Studio\Projects\Examples\Naomi\Squares\Squares\bin\Debug\Squares.exe
+C:\Visual Studio\Projects\Examples\Naomi\Squares\Squares\bin\Debug\Squares.pdb
+C:\Visual Studio\Projects\Examples\Naomi\Squares\Squares\bin\Debug\Squares.xml
+C:\Visual Studio\Projects\Examples\Naomi\Squares\Squares\obj\Debug\Squares.exe
+C:\Visual Studio\Projects\Examples\Naomi\Squares\Squares\obj\Debug\Squares.xml
+C:\Visual Studio\Projects\Examples\Naomi\Squares\Squares\obj\Debug\Squares.pdb
+C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Squares\obj\Debug\Squares.xml
+C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Squares\obj\Debug\Squares.pdb
+C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Squares\bin\Debug\Squares.exe
+C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Squares\bin\Debug\Squares.pdb
+C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Squares\bin\Debug\Squares.xml
+C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Squares\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Squares\obj\Debug\Squares.FormSquares.resources
+C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Squares\obj\Debug\Squares.Resources.resources
+C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Squares\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Squares\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares\Squares\obj\Debug\Squares.exe

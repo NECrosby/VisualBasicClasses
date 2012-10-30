@@ -1,0 +1,12 @@
+C:\Visual Studio\Projects\Examples\Naomi\datebaseConnection\datebaseConnection\bin\Debug\datebaseConnection.exe
+C:\Visual Studio\Projects\Examples\Naomi\datebaseConnection\datebaseConnection\bin\Debug\datebaseConnection.pdb
+C:\Visual Studio\Projects\Examples\Naomi\datebaseConnection\datebaseConnection\bin\Debug\datebaseConnection.xml
+C:\Visual Studio\Projects\Examples\Naomi\datebaseConnection\datebaseConnection\obj\Debug\ResolveAssemblyReference.cache
+C:\Visual Studio\Projects\Examples\Naomi\datebaseConnection\datebaseConnection\obj\Debug\datebaseConnection.Resources.resources
+C:\Visual Studio\Projects\Examples\Naomi\datebaseConnection\datebaseConnection\obj\Debug\datebaseConnection.vbproj.GenerateResource.Cache
+C:\Visual Studio\Projects\Examples\Naomi\datebaseConnection\datebaseConnection\obj\Debug\datebaseConnection.exe
+C:\Visual Studio\Projects\Examples\Naomi\datebaseConnection\datebaseConnection\obj\Debug\datebaseConnection.xml
+C:\Visual Studio\Projects\Examples\Naomi\datebaseConnection\datebaseConnection\obj\Debug\datebaseConnection.pdb
+C:\Visual Studio\Projects\Examples\Naomi\datebaseConnection\datebaseConnection\obj\Debug\datebaseConnection.Resource1.resources
+C:\Visual Studio\Projects\Examples\Naomi\datebaseConnection\datebaseConnection\obj\Debug\datebaseConnection.NaomiPractice.resources
+C:\Visual Studio\Projects\Examples\Naomi\datebaseConnection\datebaseConnection\obj\Debug\datebaseConnection.FormEquipmentHistory.resources

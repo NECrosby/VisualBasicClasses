@@ -1,0 +1,11 @@
+C:\Visual Studio\Projects\Examples\Naomi\SQLServerConnection\SQLServerConnection\bin\Debug\SQLServerConnection.exe
+C:\Visual Studio\Projects\Examples\Naomi\SQLServerConnection\SQLServerConnection\bin\Debug\SQLServerConnection.pdb
+C:\Visual Studio\Projects\Examples\Naomi\SQLServerConnection\SQLServerConnection\bin\Debug\SQLServerConnection.xml
+C:\Visual Studio\Projects\Examples\Naomi\SQLServerConnection\SQLServerConnection\obj\Debug\ResolveAssemblyReference.cache
+C:\Visual Studio\Projects\Examples\Naomi\SQLServerConnection\SQLServerConnection\obj\Debug\SQLServerConnection.FormUserList.resources
+C:\Visual Studio\Projects\Examples\Naomi\SQLServerConnection\SQLServerConnection\obj\Debug\SQLServerConnection.Resources.resources
+C:\Visual Studio\Projects\Examples\Naomi\SQLServerConnection\SQLServerConnection\obj\Debug\SQLServerConnection.vbproj.GenerateResource.Cache
+C:\Visual Studio\Projects\Examples\Naomi\SQLServerConnection\SQLServerConnection\obj\Debug\SQLServerConnection.exe
+C:\Visual Studio\Projects\Examples\Naomi\SQLServerConnection\SQLServerConnection\obj\Debug\SQLServerConnection.xml
+C:\Visual Studio\Projects\Examples\Naomi\SQLServerConnection\SQLServerConnection\obj\Debug\SQLServerConnection.pdb
+C:\Visual Studio\Projects\Examples\Naomi\SQLServerConnection\SQLServerConnection\obj\Debug\SQLServerConnection.FormCalculatePDO.resources

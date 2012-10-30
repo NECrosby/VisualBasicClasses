@@ -1,0 +1,13 @@
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\ExceptionDemo\bin\Debug\ExceptionDemo.exe
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\ExceptionDemo\bin\Debug\ExceptionDemo.pdb
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\ExceptionDemo\bin\Debug\ExceptionDemo.xml
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\ExceptionDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\ExceptionDemo\obj\Debug\ExceptionDemo.Form1.resources
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\ExceptionDemo\obj\Debug\ExceptionDemo.Resources.resources
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\ExceptionDemo\obj\Debug\ExceptionDemo.vbproj.GenerateResource.Cache
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\ExceptionDemo\obj\Debug\ExceptionDemo.exe
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\ExceptionDemo\obj\Debug\ExceptionDemo.xml
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\ExceptionDemo\obj\Debug\ExceptionDemo.pdb
+C:\Visual Studio\Projects\Examples\Naomi\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.exe
+C:\Visual Studio\Projects\Examples\Naomi\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.xml
+C:\Visual Studio\Projects\Examples\Naomi\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.pdb

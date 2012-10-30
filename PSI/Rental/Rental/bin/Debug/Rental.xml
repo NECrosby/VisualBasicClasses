@@ -1,0 +1,95 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Rental
+</name>
+</assembly>
+<members>
+<member name="T:Rental.RentalPropertyDataSet.PropertyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Rental.RentalPropertyDataSet.RentalAgreementDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Rental.RentalPropertyDataSet.RenterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Rental.RentalPropertyDataSet.PropertyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Rental.RentalPropertyDataSet.RentalAgreementRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Rental.RentalPropertyDataSet.RenterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Rental.RentalPropertyDataSet.PropertyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Rental.RentalPropertyDataSet.RentalAgreementRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Rental.RentalPropertyDataSet.RenterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Rental.RentalPropertyDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Rental.RentalPropertyDataSetTableAdapters.PropertyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Rental.RentalPropertyDataSetTableAdapters.RentalAgreementTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Rental.RentalPropertyDataSetTableAdapters.RenterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Rental.RentalPropertyDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Rental.RentalPropertyDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Rental.RentalPropertyDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Rental.RentalPropertyDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Rental.RentalPropertyDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Rental.RentalPropertyDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Rental.RentalPropertyDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Rental.RentalPropertyDataSetTableAdapters.TableAdapterManager.UpdateAll(Rental.RentalPropertyDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Rental.RentalPropertyDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Rental.RentalPropertyDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Rental.RentalPropertyDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

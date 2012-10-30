@@ -1,0 +1,13 @@
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\Student Class Example\bin\Debug\Student Class Example.exe
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\Student Class Example\bin\Debug\Student Class Example.pdb
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\Student Class Example\bin\Debug\Student Class Example.xml
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\Student Class Example\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\Student Class Example\obj\Debug\Student_Class_Example.Form1.resources
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\Student Class Example\obj\Debug\Student_Class_Example.Resources.resources
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\Student Class Example\obj\Debug\Student Class Example.vbproj.GenerateResource.Cache
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\Student Class Example\obj\Debug\Student Class Example.exe
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\Student Class Example\obj\Debug\Student Class Example.xml
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\Student Class Example\obj\Debug\Student Class Example.pdb
+E:\Advance VB\Student Class Example\Student Class Example\obj\Debug\Student Class Example.exe
+E:\Advance VB\Student Class Example\Student Class Example\obj\Debug\Student Class Example.xml
+E:\Advance VB\Student Class Example\Student Class Example\obj\Debug\Student Class Example.pdb

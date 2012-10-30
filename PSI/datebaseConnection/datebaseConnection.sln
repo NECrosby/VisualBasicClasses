@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "datebaseConnection", "datebaseConnection\datebaseConnection.vbproj", "{EF1B6EC6-D177-48AE-96F6-9FA588047C95}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://teamserv:8080/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = datebaseConnection\\datebaseConnection.vbproj
+		SccProjectName1 = datebaseConnection
+		SccLocalPath1 = datebaseConnection
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF1B6EC6-D177-48AE-96F6-9FA588047C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF1B6EC6-D177-48AE-96F6-9FA588047C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF1B6EC6-D177-48AE-96F6-9FA588047C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF1B6EC6-D177-48AE-96F6-9FA588047C95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,35 @@
+;SetupMgrTag
+[Unattended]
+    ExtendOemPartition=1
+    KeepPageFile=0
+    InstallFilesPath=C:\sysprep\i386
+
+[GuiUnattended]
+    AdminPassword=USETHEFORCE
+    OEMSkipRegional=1
+    TimeZone=20
+
+[UserData]
+    ProductKey=DMM28-CHJBB-JC4HJ-4VV7V-KVMR3
+    FullName=""
+    OrgName="Polar Semiconductor"
+
+[Display]
+    BitsPerPel=16
+    Xresolution=1024
+    YResolution=768
+    Vrefresh=60
+
+[SetupMgr]
+    DistFolder=C:\sysprep\i386
+    DistShare=windist
+
+[Identification]
+    JoinDomain=Dom1
+    DomainAdmin=buildxp
+    DomainAdminPassword=wh1tet@il
+
+[Networking]
+    InstallDefaultComponents=Yes
+
+[sysprepcleanup]

@@ -1,0 +1,11 @@
+C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares-branch2\Squares\bin\Debug\Squares.exe
+C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares-branch2\Squares\bin\Debug\Squares.pdb
+C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares-branch2\Squares\bin\Debug\Squares.xml
+C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares-branch2\Squares\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares-branch2\Squares\obj\Debug\Squares.FormSquares.resources
+C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares-branch2\Squares\obj\Debug\Squares.Resources.resources
+C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares-branch2\Squares\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares-branch2\Squares\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares-branch2\Squares\obj\Debug\Squares.exe
+C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares-branch2\Squares\obj\Debug\Squares.xml
+C:\Users\Owner\Documents\Polar Semiconductor Inc\Squares-branch2\Squares\obj\Debug\Squares.pdb

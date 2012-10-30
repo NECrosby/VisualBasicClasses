@@ -1,0 +1,10 @@
+C:\Visual Studio\Projects\Examples\Naomi\Proof Of Concept - Copying Files\Proof Of Concept - Copying Files\bin\Debug\Proof Of Concept - Copying Files.exe
+C:\Visual Studio\Projects\Examples\Naomi\Proof Of Concept - Copying Files\Proof Of Concept - Copying Files\bin\Debug\Proof Of Concept - Copying Files.pdb
+C:\Visual Studio\Projects\Examples\Naomi\Proof Of Concept - Copying Files\Proof Of Concept - Copying Files\bin\Debug\Proof Of Concept - Copying Files.xml
+C:\Visual Studio\Projects\Examples\Naomi\Proof Of Concept - Copying Files\Proof Of Concept - Copying Files\obj\Debug\ResolveAssemblyReference.cache
+C:\Visual Studio\Projects\Examples\Naomi\Proof Of Concept - Copying Files\Proof Of Concept - Copying Files\obj\Debug\Proof_Of_Concept___Copying_Files.Form1.resources
+C:\Visual Studio\Projects\Examples\Naomi\Proof Of Concept - Copying Files\Proof Of Concept - Copying Files\obj\Debug\Proof_Of_Concept___Copying_Files.Resources.resources
+C:\Visual Studio\Projects\Examples\Naomi\Proof Of Concept - Copying Files\Proof Of Concept - Copying Files\obj\Debug\Proof Of Concept - Copying Files.vbproj.GenerateResource.Cache
+C:\Visual Studio\Projects\Examples\Naomi\Proof Of Concept - Copying Files\Proof Of Concept - Copying Files\obj\Debug\Proof Of Concept - Copying Files.exe
+C:\Visual Studio\Projects\Examples\Naomi\Proof Of Concept - Copying Files\Proof Of Concept - Copying Files\obj\Debug\Proof Of Concept - Copying Files.xml
+C:\Visual Studio\Projects\Examples\Naomi\Proof Of Concept - Copying Files\Proof Of Concept - Copying Files\obj\Debug\Proof Of Concept - Copying Files.pdb

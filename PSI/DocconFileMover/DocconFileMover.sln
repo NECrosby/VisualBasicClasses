@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DocconFileMover", "DocconFileMover\DocconFileMover.vbproj", "{E6A4C3C0-7826-47D3-99E1-33FA83AB28DB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupDocconFileMover", "SetupDocconFileMover\SetupDocconFileMover.vdproj", "{2435958E-F0C6-4D15-888D-8F3EA14A9C87}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://teamserv:8080/
+		SccProjectUniqueName0 = DocconFileMover\\DocconFileMover.vbproj
+		SccProjectName0 = DocconFileMover
+		SccAuxPath0 = http://teamserv:8080
+		SccLocalPath0 = DocconFileMover
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName1 = SetupDocconFileMover\\SetupDocconFileMover.vdproj
+		SccProjectName1 = SetupDocconFileMover
+		SccAuxPath1 = http://teamserv:8080
+		SccLocalPath1 = SetupDocconFileMover
+		SccProvider1 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6A4C3C0-7826-47D3-99E1-33FA83AB28DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A4C3C0-7826-47D3-99E1-33FA83AB28DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A4C3C0-7826-47D3-99E1-33FA83AB28DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A4C3C0-7826-47D3-99E1-33FA83AB28DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2435958E-F0C6-4D15-888D-8F3EA14A9C87}.Debug|Any CPU.ActiveCfg = Debug
+		{2435958E-F0C6-4D15-888D-8F3EA14A9C87}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

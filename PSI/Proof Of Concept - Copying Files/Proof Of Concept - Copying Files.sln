@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Proof Of Concept - Copying Files", "Proof Of Concept - Copying Files\Proof Of Concept - Copying Files.vbproj", "{479CDCD7-5AAE-4896-92A2-37B4D22FFC9E}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://teamserv:8080/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Proof\u0020Of\u0020Concept\u0020-\u0020Copying\u0020Files\\Proof\u0020Of\u0020Concept\u0020-\u0020Copying\u0020Files.vbproj
+		SccProjectName1 = Proof\u0020Of\u0020Concept\u0020-\u0020Copying\u0020Files
+		SccLocalPath1 = Proof\u0020Of\u0020Concept\u0020-\u0020Copying\u0020Files
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{479CDCD7-5AAE-4896-92A2-37B4D22FFC9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479CDCD7-5AAE-4896-92A2-37B4D22FFC9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479CDCD7-5AAE-4896-92A2-37B4D22FFC9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479CDCD7-5AAE-4896-92A2-37B4D22FFC9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

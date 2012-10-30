@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="HelloWorld">
+</Property><Property Name="Solution File" Value="C:\Users\Owner\Documents\Polar Semiconductor Inc\HelloWorld\HelloWorld.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Owner\Documents\Polar Semiconductor Inc\HelloWorld\HelloWorld.suo">
+</Property><Property Name="Date" Value="Monday, September 19, 2011">
+</Property><Property Name="Time" Value="16:28 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="HelloWorld.sln" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\HelloWorld\Backup\HelloWorld.sln">
+</Event><Event ErrorLevel="0" Project="" Source="HelloWorld.suo" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\HelloWorld\Backup\HelloWorld.suo">
+</Event><Event ErrorLevel="0" Project="HelloWorld" Source="HelloWorld\HelloWorld.vbproj" Description="Project file successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\HelloWorld\Backup\HelloWorld\HelloWorld.vbproj">
+</Event><Event ErrorLevel="0" Project="HelloWorld" Source="HelloWorld\HelloWorld.vbproj.user" Description="Project user file successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\HelloWorld\Backup\HelloWorld\HelloWorld.vbproj.user">
+</Event><Event ErrorLevel="0" Project="HelloWorld" Source="HelloWorld\Form1.vb" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\HelloWorld\Backup\HelloWorld\Form1.vb">
+</Event><Event ErrorLevel="0" Project="HelloWorld" Source="HelloWorld\Form1.Designer.vb" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\HelloWorld\Backup\HelloWorld\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HelloWorld" Source="HelloWorld\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\HelloWorld\Backup\HelloWorld\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="HelloWorld" Source="HelloWorld\My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\HelloWorld\Backup\HelloWorld\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HelloWorld" Source="HelloWorld\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\HelloWorld\Backup\HelloWorld\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HelloWorld" Source="HelloWorld\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\HelloWorld\Backup\HelloWorld\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="HelloWorld" Source="HelloWorld\My Project\Application.myapp" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\HelloWorld\Backup\HelloWorld\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="HelloWorld" Source="HelloWorld\My Project\Settings.settings" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\HelloWorld\Backup\HelloWorld\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="HelloWorld" Source="HelloWorld\Form1.resx" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\HelloWorld\Backup\HelloWorld\Form1.resx">
+</Event><Event ErrorLevel="0" Project="HelloWorld" Source="HelloWorld\My Project\Resources.resx" Description="File successfully backed up as C:\Users\Owner\Documents\Polar Semiconductor Inc\HelloWorld\Backup\HelloWorld\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="HelloWorld" Source="HelloWorld\HelloWorld.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="HelloWorld" Source="HelloWorld\HelloWorld.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="HelloWorld.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="HelloWorld.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="HelloWorld" Source="HelloWorld\HelloWorld.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

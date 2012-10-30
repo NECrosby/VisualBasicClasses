@@ -1,0 +1,11 @@
+C:\Visual Studio\Projects\Examples\Naomi\Student Data\Student Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Visual Studio\Projects\Examples\Naomi\Student Data\Student Data\obj\Debug\Student_Data.Resources.resources
+C:\Visual Studio\Projects\Examples\Naomi\Student Data\Student Data\obj\Debug\Student Data.vbproj.GenerateResource.Cache
+C:\Visual Studio\Projects\Examples\Naomi\Student Data\Student Data\bin\Debug\Student Data.exe
+C:\Visual Studio\Projects\Examples\Naomi\Student Data\Student Data\bin\Debug\Student Data.pdb
+C:\Visual Studio\Projects\Examples\Naomi\Student Data\Student Data\bin\Debug\Student Data.xml
+C:\Visual Studio\Projects\Examples\Naomi\Student Data\Student Data\obj\Debug\Student Data.exe
+C:\Visual Studio\Projects\Examples\Naomi\Student Data\Student Data\obj\Debug\Student Data.xml
+C:\Visual Studio\Projects\Examples\Naomi\Student Data\Student Data\obj\Debug\Student Data.pdb
+C:\Visual Studio\Projects\Examples\Naomi\Student Data\Student Data\obj\Debug\Student_Data.FormAddStudent.resources
+C:\Visual Studio\Projects\Examples\Naomi\Student Data\Student Data\obj\Debug\Student_Data.FormMain.resources

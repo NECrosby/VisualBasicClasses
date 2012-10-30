@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Rental", "Rental\Rental.vbproj", "{EB093029-3754-4CBD-930C-AE1BF99E1497}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Rental.Data", "Rental.Data\Rental.Data.vbproj", "{E8A125EB-C341-4B13-9B76-A759553E3BE7}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://teamserv:8080/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Rental\\Rental.vbproj
+		SccProjectName1 = Rental
+		SccLocalPath1 = Rental
+		SccProjectUniqueName2 = Rental.Data\\Rental.Data.vbproj
+		SccProjectName2 = Rental.Data
+		SccLocalPath2 = Rental.Data
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB093029-3754-4CBD-930C-AE1BF99E1497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB093029-3754-4CBD-930C-AE1BF99E1497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB093029-3754-4CBD-930C-AE1BF99E1497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB093029-3754-4CBD-930C-AE1BF99E1497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8A125EB-C341-4B13-9B76-A759553E3BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8A125EB-C341-4B13-9B76-A759553E3BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8A125EB-C341-4B13-9B76-A759553E3BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8A125EB-C341-4B13-9B76-A759553E3BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

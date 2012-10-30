@@ -1,0 +1,25 @@
+**** Begin CleanDRM *************************************************
+**
+** LogFile   : C:\SYSPREP\cleandrm.log
+** TimeStamp : 1/23/2004, 2:03:28 PM
+**
+[Clean registry]
+   Deleting Machine ID registry value...
+   Deleting Secure Store registry values...
+   (default)    : deleted
+   Deleting Data Path registry value...
+   DataPath     : deleted
+[Clean DRM folder]
+   Cleaning C:\Documents and Settings\All Users\DRM...
+   drmv2.lic    : deleted
+   drmv2.sst    : deleted
+[Clean indiv files]
+   no indiv key files found
+   no indiv dll files found
+[Register DRM libraries]
+   Register drmclien.dll: DllRegisterServer returned 0x00000000.
+   Register drmv2clt.dll: DllRegisterServer returned 0x00000000.
+**
+**** End CleanDRM ***************************************************
+
+

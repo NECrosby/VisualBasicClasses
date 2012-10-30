@@ -1,0 +1,13 @@
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\AverageRaceTimes\bin\Debug\AverageRaceTimes.exe
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\AverageRaceTimes\bin\Debug\AverageRaceTimes.pdb
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\AverageRaceTimes\bin\Debug\AverageRaceTimes.xml
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\AverageRaceTimes\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\AverageRaceTimes\obj\Debug\AverageRaceTimes.Form1.resources
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\AverageRaceTimes\obj\Debug\AverageRaceTimes.Resources.resources
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\AverageRaceTimes\obj\Debug\AverageRaceTimes.vbproj.GenerateResource.Cache
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\AverageRaceTimes\obj\Debug\AverageRaceTimes.exe
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\AverageRaceTimes\obj\Debug\AverageRaceTimes.xml
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\AverageRaceTimes\obj\Debug\AverageRaceTimes.pdb
+C:\Visual Studio\Projects\Examples\Naomi\AverageRaceTimes\AverageRaceTimes\obj\Debug\AverageRaceTimes.exe
+C:\Visual Studio\Projects\Examples\Naomi\AverageRaceTimes\AverageRaceTimes\obj\Debug\AverageRaceTimes.xml
+C:\Visual Studio\Projects\Examples\Naomi\AverageRaceTimes\AverageRaceTimes\obj\Debug\AverageRaceTimes.pdb

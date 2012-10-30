@@ -1,0 +1,13 @@
+C:\Visual Studio\Projects\Examples\Naomi\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Visual Studio\Projects\Examples\Naomi\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Visual Studio\Projects\Examples\Naomi\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xml
+C:\Visual Studio\Projects\Examples\Naomi\HelloWorld\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Visual Studio\Projects\Examples\Naomi\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Visual Studio\Projects\Examples\Naomi\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+C:\Visual Studio\Projects\Examples\Naomi\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.Cache
+C:\Visual Studio\Projects\Examples\Naomi\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Visual Studio\Projects\Examples\Naomi\HelloWorld\HelloWorld\obj\Debug\HelloWorld.xml
+C:\Visual Studio\Projects\Examples\Naomi\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Owner\Documents\Polar Semiconductor Inc\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Owner\Documents\Polar Semiconductor Inc\HelloWorld\HelloWorld\obj\Debug\HelloWorld.xml
+C:\Users\Owner\Documents\Polar Semiconductor Inc\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

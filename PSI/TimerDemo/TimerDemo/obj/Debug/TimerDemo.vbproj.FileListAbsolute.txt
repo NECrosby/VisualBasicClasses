@@ -1,0 +1,20 @@
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\TimerDemo\bin\Debug\TimerDemo.exe
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\TimerDemo\bin\Debug\TimerDemo.pdb
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\TimerDemo\bin\Debug\TimerDemo.xml
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\TimerDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\TimerDemo\obj\Debug\TimerDemo.Form1.resources
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\TimerDemo\obj\Debug\TimerDemo.Resources.resources
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\TimerDemo\obj\Debug\TimerDemo.vbproj.GenerateResource.Cache
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\TimerDemo\obj\Debug\TimerDemo.exe
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\TimerDemo\obj\Debug\TimerDemo.xml
+C:\Documents and Settings\crosbyn\Local Settings\Application Data\Temporary Projects\TimerDemo\obj\Debug\TimerDemo.pdb
+C:\Visual Studio\Projects\Examples\Naomi\TimerDemo\TimerDemo\obj\Debug\TimerDemo.exe
+C:\Visual Studio\Projects\Examples\Naomi\TimerDemo\TimerDemo\obj\Debug\TimerDemo.xml
+C:\Visual Studio\Projects\Examples\Naomi\TimerDemo\TimerDemo\obj\Debug\TimerDemo.pdb
+C:\Visual Studio\Projects\Examples\Naomi\TimerDemo\TimerDemo\bin\Debug\TimerDemo.exe
+C:\Visual Studio\Projects\Examples\Naomi\TimerDemo\TimerDemo\bin\Debug\TimerDemo.pdb
+C:\Visual Studio\Projects\Examples\Naomi\TimerDemo\TimerDemo\bin\Debug\TimerDemo.xml
+C:\Visual Studio\Projects\Examples\Naomi\TimerDemo\TimerDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Visual Studio\Projects\Examples\Naomi\TimerDemo\TimerDemo\obj\Debug\TimerDemo.Form1.resources
+C:\Visual Studio\Projects\Examples\Naomi\TimerDemo\TimerDemo\obj\Debug\TimerDemo.Resources.resources
+C:\Visual Studio\Projects\Examples\Naomi\TimerDemo\TimerDemo\obj\Debug\TimerDemo.vbproj.GenerateResource.Cache

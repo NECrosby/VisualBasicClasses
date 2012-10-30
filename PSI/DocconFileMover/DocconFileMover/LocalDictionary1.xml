@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- 
+======================================================
+FileName:     LocalDictionary.xml
+Description:  Dictionary for variable names to add for CodeAnalysis
+
+!!! Attention !!! - you must change the property "Build Action"
+                    of this file to "CodeAnalyisDictionary", in 
+                    order for this to work.
+======================================================
+-->
+<Dictionary>
+  <Words>
+    <Recognized>
+      <!-- *********************************************************************************** -->
+      <!-- You must change the property "Build Action" of this file to "CodeAnalyisDictionary" -->
+      <!-- *********************************************************************************** -->
+      <Word>Doccon</Word>
+      <Word>Param</Word>
+      <Word>Ets</Word>
+      <Word>Wrd</Word>
+    </Recognized>
+    <Acronyms>
+      <CasingExceptions>
+        <Acronym>Wrd</Acronym>
+        <Acronym>Ets</Acronym>
+        <Acronym>IS</Acronym>
+      </CasingExceptions>
+    </Acronyms>
+  </Words>
+</Dictionary>
