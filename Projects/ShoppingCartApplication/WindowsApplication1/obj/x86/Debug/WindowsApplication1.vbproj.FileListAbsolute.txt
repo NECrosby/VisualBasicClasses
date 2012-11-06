@@ -1,0 +1,13 @@
+C:\Users\Owner\Documents\4_Fall 2012\Visual Basic\VisualBasicClasses\VisualBasicClasses\Projects\ShoppingCartApplication\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Documents\4_Fall 2012\Visual Basic\VisualBasicClasses\VisualBasicClasses\Projects\ShoppingCartApplication\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Owner\Documents\4_Fall 2012\Visual Basic\VisualBasicClasses\VisualBasicClasses\Projects\ShoppingCartApplication\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Owner\Documents\4_Fall 2012\Visual Basic\VisualBasicClasses\VisualBasicClasses\Projects\ShoppingCartApplication\WindowsApplication1\bin\Debug\ShoppingCart.exe
+C:\Users\Owner\Documents\4_Fall 2012\Visual Basic\VisualBasicClasses\VisualBasicClasses\Projects\ShoppingCartApplication\WindowsApplication1\bin\Debug\ShoppingCart.pdb
+C:\Users\Owner\Documents\4_Fall 2012\Visual Basic\VisualBasicClasses\VisualBasicClasses\Projects\ShoppingCartApplication\WindowsApplication1\bin\Debug\ShoppingCart.xml
+C:\Users\Owner\Documents\4_Fall 2012\Visual Basic\VisualBasicClasses\VisualBasicClasses\Projects\ShoppingCartApplication\WindowsApplication1\obj\x86\Debug\ShoppingCart.AudioBookForm.resources
+C:\Users\Owner\Documents\4_Fall 2012\Visual Basic\VisualBasicClasses\VisualBasicClasses\Projects\ShoppingCartApplication\WindowsApplication1\obj\x86\Debug\ShoppingCart.MainForm.resources
+C:\Users\Owner\Documents\4_Fall 2012\Visual Basic\VisualBasicClasses\VisualBasicClasses\Projects\ShoppingCartApplication\WindowsApplication1\obj\x86\Debug\ShoppingCart.Resources.resources
+C:\Users\Owner\Documents\4_Fall 2012\Visual Basic\VisualBasicClasses\VisualBasicClasses\Projects\ShoppingCartApplication\WindowsApplication1\obj\x86\Debug\ShoppingCart.PrintBookForm.resources
+C:\Users\Owner\Documents\4_Fall 2012\Visual Basic\VisualBasicClasses\VisualBasicClasses\Projects\ShoppingCartApplication\WindowsApplication1\obj\x86\Debug\ShoppingCart.exe
+C:\Users\Owner\Documents\4_Fall 2012\Visual Basic\VisualBasicClasses\VisualBasicClasses\Projects\ShoppingCartApplication\WindowsApplication1\obj\x86\Debug\ShoppingCart.xml
+C:\Users\Owner\Documents\4_Fall 2012\Visual Basic\VisualBasicClasses\VisualBasicClasses\Projects\ShoppingCartApplication\WindowsApplication1\obj\x86\Debug\ShoppingCart.pdb
