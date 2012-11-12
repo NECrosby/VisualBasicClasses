@@ -23,36 +23,6 @@ Partial Class MainForm
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.gbxAnswers = New System.Windows.Forms.GroupBox()
-        Me.Label1 = New System.Windows.Forms.Label()
-        Me.txtAnswer0 = New System.Windows.Forms.TextBox()
-        Me.txtAnswer1 = New System.Windows.Forms.TextBox()
-        Me.Label2 = New System.Windows.Forms.Label()
-        Me.txtAnswer2 = New System.Windows.Forms.TextBox()
-        Me.Label3 = New System.Windows.Forms.Label()
-        Me.txtAnswer3 = New System.Windows.Forms.TextBox()
-        Me.Label4 = New System.Windows.Forms.Label()
-        Me.txtAnswer4 = New System.Windows.Forms.TextBox()
-        Me.Label5 = New System.Windows.Forms.Label()
-        Me.txtAnswer9 = New System.Windows.Forms.TextBox()
-        Me.Label6 = New System.Windows.Forms.Label()
-        Me.txtAnswer8 = New System.Windows.Forms.TextBox()
-        Me.Label7 = New System.Windows.Forms.Label()
-        Me.txtAnswer7 = New System.Windows.Forms.TextBox()
-        Me.Label8 = New System.Windows.Forms.Label()
-        Me.txtAnswer6 = New System.Windows.Forms.TextBox()
-        Me.Label9 = New System.Windows.Forms.Label()
-        Me.txtAnswer5 = New System.Windows.Forms.TextBox()
-        Me.Label10 = New System.Windows.Forms.Label()
-        Me.txtAnswer14 = New System.Windows.Forms.TextBox()
-        Me.Label11 = New System.Windows.Forms.Label()
-        Me.txtAnswer13 = New System.Windows.Forms.TextBox()
-        Me.Label12 = New System.Windows.Forms.Label()
-        Me.txtAnswer12 = New System.Windows.Forms.TextBox()
-        Me.Label13 = New System.Windows.Forms.Label()
-        Me.txtAnswer11 = New System.Windows.Forms.TextBox()
-        Me.Label14 = New System.Windows.Forms.Label()
-        Me.txtAnswer10 = New System.Windows.Forms.TextBox()
-        Me.Label15 = New System.Windows.Forms.Label()
         Me.txtAnswer19 = New System.Windows.Forms.TextBox()
         Me.Label16 = New System.Windows.Forms.Label()
         Me.txtAnswer18 = New System.Windows.Forms.TextBox()
@@ -63,6 +33,36 @@ Partial Class MainForm
         Me.Label19 = New System.Windows.Forms.Label()
         Me.txtAnswer15 = New System.Windows.Forms.TextBox()
         Me.Label20 = New System.Windows.Forms.Label()
+        Me.txtAnswer14 = New System.Windows.Forms.TextBox()
+        Me.Label11 = New System.Windows.Forms.Label()
+        Me.txtAnswer13 = New System.Windows.Forms.TextBox()
+        Me.Label12 = New System.Windows.Forms.Label()
+        Me.txtAnswer12 = New System.Windows.Forms.TextBox()
+        Me.Label13 = New System.Windows.Forms.Label()
+        Me.txtAnswer11 = New System.Windows.Forms.TextBox()
+        Me.Label14 = New System.Windows.Forms.Label()
+        Me.txtAnswer10 = New System.Windows.Forms.TextBox()
+        Me.Label15 = New System.Windows.Forms.Label()
+        Me.txtAnswer9 = New System.Windows.Forms.TextBox()
+        Me.Label6 = New System.Windows.Forms.Label()
+        Me.txtAnswer8 = New System.Windows.Forms.TextBox()
+        Me.Label7 = New System.Windows.Forms.Label()
+        Me.txtAnswer7 = New System.Windows.Forms.TextBox()
+        Me.Label8 = New System.Windows.Forms.Label()
+        Me.txtAnswer6 = New System.Windows.Forms.TextBox()
+        Me.Label9 = New System.Windows.Forms.Label()
+        Me.txtAnswer5 = New System.Windows.Forms.TextBox()
+        Me.Label10 = New System.Windows.Forms.Label()
+        Me.txtAnswer4 = New System.Windows.Forms.TextBox()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.txtAnswer3 = New System.Windows.Forms.TextBox()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.txtAnswer2 = New System.Windows.Forms.TextBox()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.txtAnswer1 = New System.Windows.Forms.TextBox()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.txtAnswer0 = New System.Windows.Forms.TextBox()
+        Me.Label1 = New System.Windows.Forms.Label()
         Me.btnScoreExam = New System.Windows.Forms.Button()
         Me.btnClear = New System.Windows.Forms.Button()
         Me.btnExit = New System.Windows.Forms.Button()
@@ -120,215 +120,110 @@ Partial Class MainForm
         Me.gbxAnswers.TabStop = False
         Me.gbxAnswers.Text = "  Answers  "
         '
-        'Label1
+        'txtAnswer19
         '
-        Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(31, 41)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Padding = New System.Windows.Forms.Padding(3)
-        Me.Label1.Size = New System.Drawing.Size(26, 24)
-        Me.Label1.TabIndex = 0
-        Me.Label1.Text = "1."
-        Me.Label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.txtAnswer19.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
+        Me.txtAnswer19.Location = New System.Drawing.Point(404, 196)
+        Me.txtAnswer19.MaxLength = 1
+        Me.txtAnswer19.Name = "txtAnswer19"
+        Me.txtAnswer19.Size = New System.Drawing.Size(50, 24)
+        Me.txtAnswer19.TabIndex = 19
+        Me.txtAnswer19.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
-        'txtAnswer0
+        'Label16
         '
-        Me.txtAnswer0.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtAnswer0.Location = New System.Drawing.Point(55, 42)
-        Me.txtAnswer0.MaxLength = 1
-        Me.txtAnswer0.Name = "txtAnswer0"
-        Me.txtAnswer0.Size = New System.Drawing.Size(50, 24)
-        Me.txtAnswer0.TabIndex = 0
-        Me.txtAnswer0.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.Label16.AutoSize = True
+        Me.Label16.Location = New System.Drawing.Point(374, 195)
+        Me.Label16.Name = "Label16"
+        Me.Label16.Padding = New System.Windows.Forms.Padding(3)
+        Me.Label16.Size = New System.Drawing.Size(34, 24)
+        Me.Label16.TabIndex = 38
+        Me.Label16.Text = "20."
+        Me.Label16.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
-        'txtAnswer1
+        'txtAnswer18
         '
-        Me.txtAnswer1.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtAnswer1.Location = New System.Drawing.Point(55, 81)
-        Me.txtAnswer1.MaxLength = 1
-        Me.txtAnswer1.Name = "txtAnswer1"
-        Me.txtAnswer1.Size = New System.Drawing.Size(50, 24)
-        Me.txtAnswer1.TabIndex = 1
-        Me.txtAnswer1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.txtAnswer18.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
+        Me.txtAnswer18.Location = New System.Drawing.Point(404, 157)
+        Me.txtAnswer18.MaxLength = 1
+        Me.txtAnswer18.Name = "txtAnswer18"
+        Me.txtAnswer18.Size = New System.Drawing.Size(50, 24)
+        Me.txtAnswer18.TabIndex = 18
+        Me.txtAnswer18.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
-        'Label2
+        'Label17
         '
-        Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(31, 80)
-        Me.Label2.Name = "Label2"
-        Me.Label2.Padding = New System.Windows.Forms.Padding(3)
-        Me.Label2.Size = New System.Drawing.Size(26, 24)
-        Me.Label2.TabIndex = 2
-        Me.Label2.Text = "2."
-        Me.Label2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.Label17.AutoSize = True
+        Me.Label17.Location = New System.Drawing.Point(374, 156)
+        Me.Label17.Name = "Label17"
+        Me.Label17.Padding = New System.Windows.Forms.Padding(3)
+        Me.Label17.Size = New System.Drawing.Size(34, 24)
+        Me.Label17.TabIndex = 36
+        Me.Label17.Text = "19."
+        Me.Label17.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
-        'txtAnswer2
+        'txtAnswer17
         '
-        Me.txtAnswer2.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtAnswer2.Location = New System.Drawing.Point(55, 120)
-        Me.txtAnswer2.MaxLength = 1
-        Me.txtAnswer2.Name = "txtAnswer2"
-        Me.txtAnswer2.Size = New System.Drawing.Size(50, 24)
-        Me.txtAnswer2.TabIndex = 2
-        Me.txtAnswer2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.txtAnswer17.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
+        Me.txtAnswer17.Location = New System.Drawing.Point(404, 118)
+        Me.txtAnswer17.MaxLength = 1
+        Me.txtAnswer17.Name = "txtAnswer17"
+        Me.txtAnswer17.Size = New System.Drawing.Size(50, 24)
+        Me.txtAnswer17.TabIndex = 17
+        Me.txtAnswer17.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
-        'Label3
+        'Label18
         '
-        Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(31, 119)
-        Me.Label3.Name = "Label3"
-        Me.Label3.Padding = New System.Windows.Forms.Padding(3)
-        Me.Label3.Size = New System.Drawing.Size(26, 24)
-        Me.Label3.TabIndex = 4
-        Me.Label3.Text = "3."
-        Me.Label3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.Label18.AutoSize = True
+        Me.Label18.Location = New System.Drawing.Point(374, 117)
+        Me.Label18.Name = "Label18"
+        Me.Label18.Padding = New System.Windows.Forms.Padding(3)
+        Me.Label18.Size = New System.Drawing.Size(34, 24)
+        Me.Label18.TabIndex = 34
+        Me.Label18.Text = "18."
+        Me.Label18.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
-        'txtAnswer3
+        'txtAnswer16
         '
-        Me.txtAnswer3.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtAnswer3.Location = New System.Drawing.Point(55, 159)
-        Me.txtAnswer3.MaxLength = 1
-        Me.txtAnswer3.Name = "txtAnswer3"
-        Me.txtAnswer3.Size = New System.Drawing.Size(50, 24)
-        Me.txtAnswer3.TabIndex = 3
-        Me.txtAnswer3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.txtAnswer16.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
+        Me.txtAnswer16.Location = New System.Drawing.Point(404, 79)
+        Me.txtAnswer16.MaxLength = 1
+        Me.txtAnswer16.Name = "txtAnswer16"
+        Me.txtAnswer16.Size = New System.Drawing.Size(50, 24)
+        Me.txtAnswer16.TabIndex = 16
+        Me.txtAnswer16.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
-        'Label4
+        'Label19
         '
-        Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(31, 158)
-        Me.Label4.Name = "Label4"
-        Me.Label4.Padding = New System.Windows.Forms.Padding(3)
-        Me.Label4.Size = New System.Drawing.Size(26, 24)
-        Me.Label4.TabIndex = 6
-        Me.Label4.Text = "4."
-        Me.Label4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.Label19.AutoSize = True
+        Me.Label19.Location = New System.Drawing.Point(374, 78)
+        Me.Label19.Name = "Label19"
+        Me.Label19.Padding = New System.Windows.Forms.Padding(3)
+        Me.Label19.Size = New System.Drawing.Size(34, 24)
+        Me.Label19.TabIndex = 32
+        Me.Label19.Text = "17."
+        Me.Label19.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
-        'txtAnswer4
+        'txtAnswer15
         '
-        Me.txtAnswer4.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtAnswer4.Location = New System.Drawing.Point(55, 198)
-        Me.txtAnswer4.MaxLength = 1
-        Me.txtAnswer4.Name = "txtAnswer4"
-        Me.txtAnswer4.Size = New System.Drawing.Size(50, 24)
-        Me.txtAnswer4.TabIndex = 4
-        Me.txtAnswer4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.txtAnswer15.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
+        Me.txtAnswer15.Location = New System.Drawing.Point(404, 40)
+        Me.txtAnswer15.MaxLength = 1
+        Me.txtAnswer15.Name = "txtAnswer15"
+        Me.txtAnswer15.Size = New System.Drawing.Size(50, 24)
+        Me.txtAnswer15.TabIndex = 15
+        Me.txtAnswer15.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
-        'Label5
+        'Label20
         '
-        Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(31, 197)
-        Me.Label5.Name = "Label5"
-        Me.Label5.Padding = New System.Windows.Forms.Padding(3)
-        Me.Label5.Size = New System.Drawing.Size(26, 24)
-        Me.Label5.TabIndex = 8
-        Me.Label5.Text = "5."
-        Me.Label5.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
-        '
-        'txtAnswer9
-        '
-        Me.txtAnswer9.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtAnswer9.Location = New System.Drawing.Point(172, 198)
-        Me.txtAnswer9.MaxLength = 1
-        Me.txtAnswer9.Name = "txtAnswer9"
-        Me.txtAnswer9.Size = New System.Drawing.Size(50, 24)
-        Me.txtAnswer9.TabIndex = 9
-        Me.txtAnswer9.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
-        '
-        'Label6
-        '
-        Me.Label6.AutoSize = True
-        Me.Label6.Location = New System.Drawing.Point(142, 197)
-        Me.Label6.Name = "Label6"
-        Me.Label6.Padding = New System.Windows.Forms.Padding(3)
-        Me.Label6.Size = New System.Drawing.Size(34, 24)
-        Me.Label6.TabIndex = 18
-        Me.Label6.Text = "10."
-        Me.Label6.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
-        '
-        'txtAnswer8
-        '
-        Me.txtAnswer8.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtAnswer8.Location = New System.Drawing.Point(172, 159)
-        Me.txtAnswer8.MaxLength = 1
-        Me.txtAnswer8.Name = "txtAnswer8"
-        Me.txtAnswer8.Size = New System.Drawing.Size(50, 24)
-        Me.txtAnswer8.TabIndex = 8
-        Me.txtAnswer8.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
-        '
-        'Label7
-        '
-        Me.Label7.AutoSize = True
-        Me.Label7.Location = New System.Drawing.Point(147, 158)
-        Me.Label7.Name = "Label7"
-        Me.Label7.Padding = New System.Windows.Forms.Padding(3)
-        Me.Label7.Size = New System.Drawing.Size(26, 24)
-        Me.Label7.TabIndex = 16
-        Me.Label7.Text = "9."
-        Me.Label7.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
-        '
-        'txtAnswer7
-        '
-        Me.txtAnswer7.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtAnswer7.Location = New System.Drawing.Point(172, 120)
-        Me.txtAnswer7.MaxLength = 1
-        Me.txtAnswer7.Name = "txtAnswer7"
-        Me.txtAnswer7.Size = New System.Drawing.Size(50, 24)
-        Me.txtAnswer7.TabIndex = 7
-        Me.txtAnswer7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
-        '
-        'Label8
-        '
-        Me.Label8.AutoSize = True
-        Me.Label8.Location = New System.Drawing.Point(147, 119)
-        Me.Label8.Name = "Label8"
-        Me.Label8.Padding = New System.Windows.Forms.Padding(3)
-        Me.Label8.Size = New System.Drawing.Size(26, 24)
-        Me.Label8.TabIndex = 14
-        Me.Label8.Text = "8."
-        Me.Label8.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
-        '
-        'txtAnswer6
-        '
-        Me.txtAnswer6.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtAnswer6.Location = New System.Drawing.Point(172, 81)
-        Me.txtAnswer6.MaxLength = 1
-        Me.txtAnswer6.Name = "txtAnswer6"
-        Me.txtAnswer6.Size = New System.Drawing.Size(50, 24)
-        Me.txtAnswer6.TabIndex = 6
-        Me.txtAnswer6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
-        '
-        'Label9
-        '
-        Me.Label9.AutoSize = True
-        Me.Label9.Location = New System.Drawing.Point(147, 80)
-        Me.Label9.Name = "Label9"
-        Me.Label9.Padding = New System.Windows.Forms.Padding(3)
-        Me.Label9.Size = New System.Drawing.Size(26, 24)
-        Me.Label9.TabIndex = 12
-        Me.Label9.Text = "7."
-        Me.Label9.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
-        '
-        'txtAnswer5
-        '
-        Me.txtAnswer5.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtAnswer5.Location = New System.Drawing.Point(172, 42)
-        Me.txtAnswer5.MaxLength = 1
-        Me.txtAnswer5.Name = "txtAnswer5"
-        Me.txtAnswer5.Size = New System.Drawing.Size(50, 24)
-        Me.txtAnswer5.TabIndex = 5
-        Me.txtAnswer5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
-        '
-        'Label10
-        '
-        Me.Label10.AutoSize = True
-        Me.Label10.Location = New System.Drawing.Point(147, 41)
-        Me.Label10.Name = "Label10"
-        Me.Label10.Padding = New System.Windows.Forms.Padding(3)
-        Me.Label10.Size = New System.Drawing.Size(26, 24)
-        Me.Label10.TabIndex = 10
-        Me.Label10.Text = "6."
-        Me.Label10.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.Label20.AutoSize = True
+        Me.Label20.Location = New System.Drawing.Point(374, 39)
+        Me.Label20.Name = "Label20"
+        Me.Label20.Padding = New System.Windows.Forms.Padding(3)
+        Me.Label20.Size = New System.Drawing.Size(34, 24)
+        Me.Label20.TabIndex = 30
+        Me.Label20.Text = "16."
+        Me.Label20.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
         'txtAnswer14
         '
@@ -435,110 +330,215 @@ Partial Class MainForm
         Me.Label15.Text = "11."
         Me.Label15.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
-        'txtAnswer19
+        'txtAnswer9
         '
-        Me.txtAnswer19.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtAnswer19.Location = New System.Drawing.Point(404, 196)
-        Me.txtAnswer19.MaxLength = 1
-        Me.txtAnswer19.Name = "txtAnswer19"
-        Me.txtAnswer19.Size = New System.Drawing.Size(50, 24)
-        Me.txtAnswer19.TabIndex = 19
-        Me.txtAnswer19.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.txtAnswer9.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
+        Me.txtAnswer9.Location = New System.Drawing.Point(172, 198)
+        Me.txtAnswer9.MaxLength = 1
+        Me.txtAnswer9.Name = "txtAnswer9"
+        Me.txtAnswer9.Size = New System.Drawing.Size(50, 24)
+        Me.txtAnswer9.TabIndex = 9
+        Me.txtAnswer9.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
-        'Label16
+        'Label6
         '
-        Me.Label16.AutoSize = True
-        Me.Label16.Location = New System.Drawing.Point(374, 195)
-        Me.Label16.Name = "Label16"
-        Me.Label16.Padding = New System.Windows.Forms.Padding(3)
-        Me.Label16.Size = New System.Drawing.Size(34, 24)
-        Me.Label16.TabIndex = 38
-        Me.Label16.Text = "20."
-        Me.Label16.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.Label6.AutoSize = True
+        Me.Label6.Location = New System.Drawing.Point(142, 197)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Padding = New System.Windows.Forms.Padding(3)
+        Me.Label6.Size = New System.Drawing.Size(34, 24)
+        Me.Label6.TabIndex = 18
+        Me.Label6.Text = "10."
+        Me.Label6.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
-        'txtAnswer18
+        'txtAnswer8
         '
-        Me.txtAnswer18.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtAnswer18.Location = New System.Drawing.Point(404, 157)
-        Me.txtAnswer18.MaxLength = 1
-        Me.txtAnswer18.Name = "txtAnswer18"
-        Me.txtAnswer18.Size = New System.Drawing.Size(50, 24)
-        Me.txtAnswer18.TabIndex = 18
-        Me.txtAnswer18.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.txtAnswer8.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
+        Me.txtAnswer8.Location = New System.Drawing.Point(172, 159)
+        Me.txtAnswer8.MaxLength = 1
+        Me.txtAnswer8.Name = "txtAnswer8"
+        Me.txtAnswer8.Size = New System.Drawing.Size(50, 24)
+        Me.txtAnswer8.TabIndex = 8
+        Me.txtAnswer8.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
-        'Label17
+        'Label7
         '
-        Me.Label17.AutoSize = True
-        Me.Label17.Location = New System.Drawing.Point(374, 156)
-        Me.Label17.Name = "Label17"
-        Me.Label17.Padding = New System.Windows.Forms.Padding(3)
-        Me.Label17.Size = New System.Drawing.Size(34, 24)
-        Me.Label17.TabIndex = 36
-        Me.Label17.Text = "19."
-        Me.Label17.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.Label7.AutoSize = True
+        Me.Label7.Location = New System.Drawing.Point(147, 158)
+        Me.Label7.Name = "Label7"
+        Me.Label7.Padding = New System.Windows.Forms.Padding(3)
+        Me.Label7.Size = New System.Drawing.Size(26, 24)
+        Me.Label7.TabIndex = 16
+        Me.Label7.Text = "9."
+        Me.Label7.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
-        'txtAnswer17
+        'txtAnswer7
         '
-        Me.txtAnswer17.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtAnswer17.Location = New System.Drawing.Point(404, 118)
-        Me.txtAnswer17.MaxLength = 1
-        Me.txtAnswer17.Name = "txtAnswer17"
-        Me.txtAnswer17.Size = New System.Drawing.Size(50, 24)
-        Me.txtAnswer17.TabIndex = 17
-        Me.txtAnswer17.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.txtAnswer7.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
+        Me.txtAnswer7.Location = New System.Drawing.Point(172, 120)
+        Me.txtAnswer7.MaxLength = 1
+        Me.txtAnswer7.Name = "txtAnswer7"
+        Me.txtAnswer7.Size = New System.Drawing.Size(50, 24)
+        Me.txtAnswer7.TabIndex = 7
+        Me.txtAnswer7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
-        'Label18
+        'Label8
         '
-        Me.Label18.AutoSize = True
-        Me.Label18.Location = New System.Drawing.Point(374, 117)
-        Me.Label18.Name = "Label18"
-        Me.Label18.Padding = New System.Windows.Forms.Padding(3)
-        Me.Label18.Size = New System.Drawing.Size(34, 24)
-        Me.Label18.TabIndex = 34
-        Me.Label18.Text = "18."
-        Me.Label18.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.Label8.AutoSize = True
+        Me.Label8.Location = New System.Drawing.Point(147, 119)
+        Me.Label8.Name = "Label8"
+        Me.Label8.Padding = New System.Windows.Forms.Padding(3)
+        Me.Label8.Size = New System.Drawing.Size(26, 24)
+        Me.Label8.TabIndex = 14
+        Me.Label8.Text = "8."
+        Me.Label8.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
-        'txtAnswer16
+        'txtAnswer6
         '
-        Me.txtAnswer16.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtAnswer16.Location = New System.Drawing.Point(404, 79)
-        Me.txtAnswer16.MaxLength = 1
-        Me.txtAnswer16.Name = "txtAnswer16"
-        Me.txtAnswer16.Size = New System.Drawing.Size(50, 24)
-        Me.txtAnswer16.TabIndex = 16
-        Me.txtAnswer16.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.txtAnswer6.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
+        Me.txtAnswer6.Location = New System.Drawing.Point(172, 81)
+        Me.txtAnswer6.MaxLength = 1
+        Me.txtAnswer6.Name = "txtAnswer6"
+        Me.txtAnswer6.Size = New System.Drawing.Size(50, 24)
+        Me.txtAnswer6.TabIndex = 6
+        Me.txtAnswer6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
-        'Label19
+        'Label9
         '
-        Me.Label19.AutoSize = True
-        Me.Label19.Location = New System.Drawing.Point(374, 78)
-        Me.Label19.Name = "Label19"
-        Me.Label19.Padding = New System.Windows.Forms.Padding(3)
-        Me.Label19.Size = New System.Drawing.Size(34, 24)
-        Me.Label19.TabIndex = 32
-        Me.Label19.Text = "17."
-        Me.Label19.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.Label9.AutoSize = True
+        Me.Label9.Location = New System.Drawing.Point(147, 80)
+        Me.Label9.Name = "Label9"
+        Me.Label9.Padding = New System.Windows.Forms.Padding(3)
+        Me.Label9.Size = New System.Drawing.Size(26, 24)
+        Me.Label9.TabIndex = 12
+        Me.Label9.Text = "7."
+        Me.Label9.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
-        'txtAnswer15
+        'txtAnswer5
         '
-        Me.txtAnswer15.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtAnswer15.Location = New System.Drawing.Point(404, 40)
-        Me.txtAnswer15.MaxLength = 1
-        Me.txtAnswer15.Name = "txtAnswer15"
-        Me.txtAnswer15.Size = New System.Drawing.Size(50, 24)
-        Me.txtAnswer15.TabIndex = 15
-        Me.txtAnswer15.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.txtAnswer5.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
+        Me.txtAnswer5.Location = New System.Drawing.Point(172, 42)
+        Me.txtAnswer5.MaxLength = 1
+        Me.txtAnswer5.Name = "txtAnswer5"
+        Me.txtAnswer5.Size = New System.Drawing.Size(50, 24)
+        Me.txtAnswer5.TabIndex = 5
+        Me.txtAnswer5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
-        'Label20
+        'Label10
         '
-        Me.Label20.AutoSize = True
-        Me.Label20.Location = New System.Drawing.Point(374, 39)
-        Me.Label20.Name = "Label20"
-        Me.Label20.Padding = New System.Windows.Forms.Padding(3)
-        Me.Label20.Size = New System.Drawing.Size(34, 24)
-        Me.Label20.TabIndex = 30
-        Me.Label20.Text = "16."
-        Me.Label20.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.Label10.AutoSize = True
+        Me.Label10.Location = New System.Drawing.Point(147, 41)
+        Me.Label10.Name = "Label10"
+        Me.Label10.Padding = New System.Windows.Forms.Padding(3)
+        Me.Label10.Size = New System.Drawing.Size(26, 24)
+        Me.Label10.TabIndex = 10
+        Me.Label10.Text = "6."
+        Me.Label10.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        '
+        'txtAnswer4
+        '
+        Me.txtAnswer4.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
+        Me.txtAnswer4.Location = New System.Drawing.Point(55, 198)
+        Me.txtAnswer4.MaxLength = 1
+        Me.txtAnswer4.Name = "txtAnswer4"
+        Me.txtAnswer4.Size = New System.Drawing.Size(50, 24)
+        Me.txtAnswer4.TabIndex = 4
+        Me.txtAnswer4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        '
+        'Label5
+        '
+        Me.Label5.AutoSize = True
+        Me.Label5.Location = New System.Drawing.Point(31, 197)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Padding = New System.Windows.Forms.Padding(3)
+        Me.Label5.Size = New System.Drawing.Size(26, 24)
+        Me.Label5.TabIndex = 8
+        Me.Label5.Text = "5."
+        Me.Label5.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        '
+        'txtAnswer3
+        '
+        Me.txtAnswer3.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
+        Me.txtAnswer3.Location = New System.Drawing.Point(55, 159)
+        Me.txtAnswer3.MaxLength = 1
+        Me.txtAnswer3.Name = "txtAnswer3"
+        Me.txtAnswer3.Size = New System.Drawing.Size(50, 24)
+        Me.txtAnswer3.TabIndex = 3
+        Me.txtAnswer3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        '
+        'Label4
+        '
+        Me.Label4.AutoSize = True
+        Me.Label4.Location = New System.Drawing.Point(31, 158)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Padding = New System.Windows.Forms.Padding(3)
+        Me.Label4.Size = New System.Drawing.Size(26, 24)
+        Me.Label4.TabIndex = 6
+        Me.Label4.Text = "4."
+        Me.Label4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        '
+        'txtAnswer2
+        '
+        Me.txtAnswer2.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
+        Me.txtAnswer2.Location = New System.Drawing.Point(55, 120)
+        Me.txtAnswer2.MaxLength = 1
+        Me.txtAnswer2.Name = "txtAnswer2"
+        Me.txtAnswer2.Size = New System.Drawing.Size(50, 24)
+        Me.txtAnswer2.TabIndex = 2
+        Me.txtAnswer2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.Location = New System.Drawing.Point(31, 119)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Padding = New System.Windows.Forms.Padding(3)
+        Me.Label3.Size = New System.Drawing.Size(26, 24)
+        Me.Label3.TabIndex = 4
+        Me.Label3.Text = "3."
+        Me.Label3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        '
+        'txtAnswer1
+        '
+        Me.txtAnswer1.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
+        Me.txtAnswer1.Location = New System.Drawing.Point(55, 81)
+        Me.txtAnswer1.MaxLength = 1
+        Me.txtAnswer1.Name = "txtAnswer1"
+        Me.txtAnswer1.Size = New System.Drawing.Size(50, 24)
+        Me.txtAnswer1.TabIndex = 1
+        Me.txtAnswer1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Location = New System.Drawing.Point(31, 80)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Padding = New System.Windows.Forms.Padding(3)
+        Me.Label2.Size = New System.Drawing.Size(26, 24)
+        Me.Label2.TabIndex = 2
+        Me.Label2.Text = "2."
+        Me.Label2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        '
+        'txtAnswer0
+        '
+        Me.txtAnswer0.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
+        Me.txtAnswer0.Location = New System.Drawing.Point(55, 42)
+        Me.txtAnswer0.MaxLength = 1
+        Me.txtAnswer0.Name = "txtAnswer0"
+        Me.txtAnswer0.Size = New System.Drawing.Size(50, 24)
+        Me.txtAnswer0.TabIndex = 0
+        Me.txtAnswer0.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Location = New System.Drawing.Point(31, 41)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Padding = New System.Windows.Forms.Padding(3)
+        Me.Label1.Size = New System.Drawing.Size(26, 24)
+        Me.Label1.TabIndex = 0
+        Me.Label1.Text = "1."
+        Me.Label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
         'btnScoreExam
         '

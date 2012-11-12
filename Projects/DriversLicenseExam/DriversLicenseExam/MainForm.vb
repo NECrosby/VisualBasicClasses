@@ -35,16 +35,16 @@
     End Sub
 
     Private Sub txtAnswer0_KeyDown(sender As Object, e As System.Windows.Forms.KeyEventArgs) Handles txtAnswer0.KeyDown
-        If Not System.Windows.Forms.Keys.A And Not _
-            System.Windows.Forms.Keys.B And Not _
-            System.Windows.Forms.Keys.C And Not _
-            System.Windows.Forms.Keys.D And Not _
-            System.Windows.Forms.Keys.Back And Not _
-            System.Windows.Forms.Keys.Delete Then
-            MessageBox.Show("A, B, C, or D are the only valid answers")
-            txtAnswer0.Text = String.Empty
-            txtAnswer0.Focus()
-        End If
+        'If Not System.Windows.Forms.Keys.A And Not _
+        '    System.Windows.Forms.Keys.B And Not _
+        '    System.Windows.Forms.Keys.C And Not _
+        '    System.Windows.Forms.Keys.D And Not _
+        '    System.Windows.Forms.Keys.Back And Not _
+        '    System.Windows.Forms.Keys.Delete Then
+        '    MessageBox.Show("A, B, C, or D are the only valid answers")
+        '    txtAnswer0.Text = String.Empty
+        '    txtAnswer0.Focus()
+        'End If
     End Sub
 
     'Sub InputValidation()
@@ -66,6 +66,34 @@
     '    'Next
 
     'End Sub
+
+    'Private Sub txtAnswer0_TextChanged(sender As System.Object, e As System.EventArgs) Handles txtAnswer0.TextChanged
+    '    If Not System.Windows.Forms.Keys.A And Not _
+    '        System.Windows.Forms.Keys.B And Not _
+    '        System.Windows.Forms.Keys.C And Not _
+    '        System.Windows.Forms.Keys.D And Not _
+    '        System.Windows.Forms.Keys.Back And Not _
+    '        System.Windows.Forms.Keys.Delete Then
+    '        MessageBox.Show("A, B, C, or D are the only valid answers")
+    '        '   txtAnswer0.Text = String.Empty
+    '        '  txtAnswer0.Focus()
+    '        txtAnswer0.SelectAll()
+
+    '    End If
+    'End Sub
+
+    Private Sub gbxAnswers_TextChanged(sender As Object, e As System.EventArgs) Handles gbxAnswers.TextChanged
+        'If gbxAnswers.Controls.OfType(TextBox Then
+
+        'End If
+
+        ' within the groupbox determine which sender is causing the event to valid input
+        ' sender.name <-- 
+        'gbxAnswers.Controls.
+        sender.ReferenceEquals(TextBox)
+
+
+    End Sub
 End Class
 
 
