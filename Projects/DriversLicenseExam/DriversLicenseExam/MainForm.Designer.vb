@@ -521,6 +521,7 @@ Partial Class MainForm
         '
         'txtAnswer0
         '
+        Me.txtAnswer0.AcceptsReturn = True
         Me.txtAnswer0.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
         Me.txtAnswer0.Location = New System.Drawing.Point(55, 42)
         Me.txtAnswer0.MaxLength = 1

@@ -6,6 +6,7 @@
 
     Private Sub ResultForm_FormClosing(sender As Object, e As System.Windows.Forms.FormClosingEventArgs) Handles Me.FormClosing
         ClearAnswerBoxes()
+        MainForm.txtAnswer0.Focus()
     End Sub
 
     Private Sub ResultForm_Load(sender As Object, e As System.EventArgs) Handles Me.Load

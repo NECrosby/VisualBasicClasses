@@ -11,6 +11,7 @@
                                        "B", "C", "D", "A", "D", _
                                        "C", "C", "B", "D", "A"}
 
+    ' This did NOT WORK if TextChanged Event was used.
     Sub ClearAnswerBoxes()
         For intCount = 0 To MainForm.gbxAnswers.Controls.Count - 1
             For Each control As Control In MainForm.gbxAnswers.Controls
