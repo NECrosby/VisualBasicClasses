@@ -1,0 +1,11 @@
+C:\Users\NaomiComp\Desktop\VisualBasicClasses\Projects\VideoCollection\VideoCollection\bin\Debug\VideoCollection.exe
+C:\Users\NaomiComp\Desktop\VisualBasicClasses\Projects\VideoCollection\VideoCollection\bin\Debug\VideoCollection.pdb
+C:\Users\NaomiComp\Desktop\VisualBasicClasses\Projects\VideoCollection\VideoCollection\bin\Debug\VideoCollection.xml
+C:\Users\NaomiComp\Desktop\VisualBasicClasses\Projects\VideoCollection\VideoCollection\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NaomiComp\Desktop\VisualBasicClasses\Projects\VideoCollection\VideoCollection\obj\x86\Debug\VideoCollection.MainForm.resources
+C:\Users\NaomiComp\Desktop\VisualBasicClasses\Projects\VideoCollection\VideoCollection\obj\x86\Debug\VideoCollection.Resources.resources
+C:\Users\NaomiComp\Desktop\VisualBasicClasses\Projects\VideoCollection\VideoCollection\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\NaomiComp\Desktop\VisualBasicClasses\Projects\VideoCollection\VideoCollection\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\NaomiComp\Desktop\VisualBasicClasses\Projects\VideoCollection\VideoCollection\obj\x86\Debug\VideoCollection.exe
+C:\Users\NaomiComp\Desktop\VisualBasicClasses\Projects\VideoCollection\VideoCollection\obj\x86\Debug\VideoCollection.xml
+C:\Users\NaomiComp\Desktop\VisualBasicClasses\Projects\VideoCollection\VideoCollection\obj\x86\Debug\VideoCollection.pdb
