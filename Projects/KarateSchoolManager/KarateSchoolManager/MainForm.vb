@@ -23,4 +23,8 @@
         Dim frmPaymentsAll As New AllPaymentsForm
         frmPaymentsAll.ShowDialog()
     End Sub
+
+    Private Sub ByOneMemberToolStripMenuItem_Click(sender As System.Object, e As System.EventArgs) Handles ByOneMemberToolStripMenuItem.Click
+
+    End Sub
 End Class

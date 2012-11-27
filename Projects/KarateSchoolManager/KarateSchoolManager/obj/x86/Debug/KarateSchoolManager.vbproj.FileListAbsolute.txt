@@ -16,3 +16,7 @@ C:\Users\Owner\Documents\4_Fall 2012\Visual Basic\VisualBasicClasses\VisualBasic
 C:\Users\Owner\Documents\4_Fall 2012\Visual Basic\VisualBasicClasses\VisualBasicClasses\Projects\KarateSchoolManager\KarateSchoolManager\obj\x86\Debug\KarateSchoolManage.AddMemberForm.resources
 C:\Users\Owner\Documents\4_Fall 2012\Visual Basic\VisualBasicClasses\VisualBasicClasses\Projects\KarateSchoolManager\KarateSchoolManager\obj\x86\Debug\KarateSchoolManage.FindMemberForm.resources
 C:\Users\Owner\Documents\4_Fall 2012\Visual Basic\VisualBasicClasses\VisualBasicClasses\Projects\KarateSchoolManager\KarateSchoolManager\obj\x86\Debug\KarateSchoolManage.AllPaymentsForm.resources
+C:\Users\NaomiComp\Desktop\VisualBasicClasses\Projects\KarateSchoolManager\KarateSchoolManager\bin\Debug\KarateSchoolManager.exe.config
+C:\Users\NaomiComp\Desktop\VisualBasicClasses\Projects\KarateSchoolManager\KarateSchoolManager\obj\x86\Debug\KarateSchoolManager.exe
+C:\Users\NaomiComp\Desktop\VisualBasicClasses\Projects\KarateSchoolManager\KarateSchoolManager\obj\x86\Debug\KarateSchoolManager.xml
+C:\Users\NaomiComp\Desktop\VisualBasicClasses\Projects\KarateSchoolManager\KarateSchoolManager\obj\x86\Debug\KarateSchoolManager.pdb

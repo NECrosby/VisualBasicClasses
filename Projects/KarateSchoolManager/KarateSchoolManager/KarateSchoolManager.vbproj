@@ -148,6 +148,12 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="OneMemberPaymentsForm.Designer.vb">
+      <DependentUpon>OneMemberPaymentsForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OneMemberPaymentsForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="AddMemberForm.resx">

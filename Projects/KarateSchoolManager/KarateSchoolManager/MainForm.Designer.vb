@@ -35,6 +35,7 @@ Partial Class MainForm
         Me.mnuMembershipAddmember = New System.Windows.Forms.ToolStripMenuItem()
         Me.mnuPayments = New System.Windows.Forms.ToolStripMenuItem()
         Me.mnuPaymentsAllmembers = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ByOneMemberToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.Panel1.SuspendLayout()
         Me.Panel2.SuspendLayout()
         Me.mnuMainMenu.SuspendLayout()
@@ -137,7 +138,7 @@ Partial Class MainForm
         '
         'mnuPayments
         '
-        Me.mnuPayments.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.mnuPaymentsAllmembers})
+        Me.mnuPayments.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.mnuPaymentsAllmembers, Me.ByOneMemberToolStripMenuItem})
         Me.mnuPayments.Name = "mnuPayments"
         Me.mnuPayments.Size = New System.Drawing.Size(71, 20)
         Me.mnuPayments.Text = "&Payments"
@@ -148,6 +149,12 @@ Partial Class MainForm
         Me.mnuPaymentsAllmembers.ShortcutKeys = CType((System.Windows.Forms.Keys.Control Or System.Windows.Forms.Keys.P), System.Windows.Forms.Keys)
         Me.mnuPaymentsAllmembers.Size = New System.Drawing.Size(182, 22)
         Me.mnuPaymentsAllmembers.Text = "&All Members"
+        '
+        'ByOneMemberToolStripMenuItem
+        '
+        Me.ByOneMemberToolStripMenuItem.Name = "ByOneMemberToolStripMenuItem"
+        Me.ByOneMemberToolStripMenuItem.Size = New System.Drawing.Size(182, 22)
+        Me.ByOneMemberToolStripMenuItem.Text = "By one member"
         '
         'MainForm
         '
@@ -185,5 +192,6 @@ Partial Class MainForm
     Friend WithEvents mnuMembershipAddmember As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents mnuPayments As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents mnuPaymentsAllmembers As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents ByOneMemberToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
 
 End Class
