@@ -36,6 +36,7 @@ Partial Class MainForm
         Me.mnuPayments = New System.Windows.Forms.ToolStripMenuItem()
         Me.mnuPaymentsAllmembers = New System.Windows.Forms.ToolStripMenuItem()
         Me.ByOneMemberToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.MembersByDateToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.Panel1.SuspendLayout()
         Me.Panel2.SuspendLayout()
         Me.mnuMainMenu.SuspendLayout()
@@ -110,7 +111,7 @@ Partial Class MainForm
         '
         'mnuMembership
         '
-        Me.mnuMembership.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.mnuMembershipListall, Me.mnuMembershipFindMember, Me.mnuMembershipAddmember})
+        Me.mnuMembership.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.mnuMembershipListall, Me.mnuMembershipFindMember, Me.mnuMembershipAddmember, Me.MembersByDateToolStripMenuItem})
         Me.mnuMembership.Name = "mnuMembership"
         Me.mnuMembership.Size = New System.Drawing.Size(86, 20)
         Me.mnuMembership.Text = "&Membership"
@@ -156,6 +157,12 @@ Partial Class MainForm
         Me.ByOneMemberToolStripMenuItem.Size = New System.Drawing.Size(182, 22)
         Me.ByOneMemberToolStripMenuItem.Text = "By one member"
         '
+        'MembersByDateToolStripMenuItem
+        '
+        Me.MembersByDateToolStripMenuItem.Name = "MembersByDateToolStripMenuItem"
+        Me.MembersByDateToolStripMenuItem.Size = New System.Drawing.Size(213, 22)
+        Me.MembersByDateToolStripMenuItem.Text = "Members by date"
+        '
         'MainForm
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -193,5 +200,6 @@ Partial Class MainForm
     Friend WithEvents mnuPayments As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents mnuPaymentsAllmembers As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents ByOneMemberToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents MembersByDateToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
 
 End Class

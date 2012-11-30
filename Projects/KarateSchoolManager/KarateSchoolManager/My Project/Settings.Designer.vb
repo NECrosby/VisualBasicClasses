@@ -74,10 +74,10 @@ Namespace My
      Global.System.Runtime.CompilerServices.CompilerGeneratedAttribute()>  _
     Friend Module MySettingsProperty
         
-        <Global.System.ComponentModel.Design.HelpKeywordAttribute("My.Settings")>  _
-        Friend ReadOnly Property Settings() As Global.KarateSchoolManage.My.MySettings
+        <Global.System.ComponentModel.Design.HelpKeywordAttribute("My.Settings")> _
+        Friend ReadOnly Property Settings() As Global.KarateSchoolManager.My.MySettings
             Get
-                Return Global.KarateSchoolManage.My.MySettings.Default
+                Return Global.KarateSchoolManager.My.MySettings.Default
             End Get
         End Property
     End Module

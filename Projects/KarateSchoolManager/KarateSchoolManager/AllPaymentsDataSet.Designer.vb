@@ -809,7 +809,7 @@ Namespace AllPaymentsDataSetTableAdapters
          Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")>  _
         Private Sub InitConnection()
             Me._connection = New Global.System.Data.SqlClient.SqlConnection()
-            Me._connection.ConnectionString = Global.KarateSchoolManage.My.MySettings.Default.KarateConnectionString
+            Me._connection.ConnectionString = Global.KarateSchoolManager.My.MySettings.Default.KarateConnectionString
         End Sub
         
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _

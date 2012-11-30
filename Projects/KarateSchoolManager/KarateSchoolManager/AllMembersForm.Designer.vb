@@ -26,8 +26,8 @@ Partial Class AllMembersForm
         Me.dgvMembers = New System.Windows.Forms.DataGridView()
         Me.MembersBindingSource = New System.Windows.Forms.BindingSource(Me.components)
         Me.AllMembersDataSetBindingSource = New System.Windows.Forms.BindingSource(Me.components)
-        Me.AllMembersDataSet = New KarateSchoolManage.AllMembersDataSet()
-        Me.MembersTableAdapter = New KarateSchoolManage.AllMembersDataSetTableAdapters.MembersTableAdapter()
+        Me.AllMembersDataSet = New KarateSchoolManager.AllMembersDataSet()
+        Me.MembersTableAdapter = New KarateSchoolManager.AllMembersDataSetTableAdapters.MembersTableAdapter()
         Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
         Me.mnuFile = New System.Windows.Forms.ToolStripMenuItem()
         Me.mnuFileSave = New System.Windows.Forms.ToolStripMenuItem()
@@ -163,9 +163,9 @@ Partial Class AllMembersForm
 
     End Sub
     Friend WithEvents dgvMembers As System.Windows.Forms.DataGridView
-    Friend WithEvents AllMembersDataSet As KarateSchoolManage.AllMembersDataSet
+    Friend WithEvents AllMembersDataSet As KarateSchoolManager.AllMembersDataSet
     Friend WithEvents MembersBindingSource As System.Windows.Forms.BindingSource
-    Friend WithEvents MembersTableAdapter As KarateSchoolManage.AllMembersDataSetTableAdapters.MembersTableAdapter
+    Friend WithEvents MembersTableAdapter As KarateSchoolManager.AllMembersDataSetTableAdapters.MembersTableAdapter
     Friend WithEvents AllMembersDataSetBindingSource As System.Windows.Forms.BindingSource
     Friend WithEvents MenuStrip1 As System.Windows.Forms.MenuStrip
     Friend WithEvents mnuFile As System.Windows.Forms.ToolStripMenuItem

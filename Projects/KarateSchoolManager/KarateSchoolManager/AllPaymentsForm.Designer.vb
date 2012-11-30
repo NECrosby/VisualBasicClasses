@@ -27,17 +27,17 @@ Partial Class AllPaymentsForm
         Me.FileToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.CloseToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.dgvPayments = New System.Windows.Forms.DataGridView()
-        Me.AllPaymentsDataSet = New KarateSchoolManage.AllPaymentsDataSet()
-        Me.PaymentsBindingSource = New System.Windows.Forms.BindingSource(Me.components)
-        Me.PaymentsTableAdapter = New KarateSchoolManage.AllPaymentsDataSetTableAdapters.PaymentsTableAdapter()
         Me.LastNameDataGridViewTextBoxColumn = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.FirstNameDataGridViewTextBoxColumn = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.PaymentDateDataGridViewTextBoxColumn = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.AmountDataGridViewTextBoxColumn = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.PaymentsBindingSource = New System.Windows.Forms.BindingSource(Me.components)
+        Me.AllPaymentsDataSet = New KarateSchoolManager.AllPaymentsDataSet()
+        Me.PaymentsTableAdapter = New KarateSchoolManager.AllPaymentsDataSetTableAdapters.PaymentsTableAdapter()
         Me.MenuStrip1.SuspendLayout()
         CType(Me.dgvPayments, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.AllPaymentsDataSet, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PaymentsBindingSource, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.AllPaymentsDataSet, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'MenuStrip1
@@ -59,7 +59,7 @@ Partial Class AllPaymentsForm
         'CloseToolStripMenuItem
         '
         Me.CloseToolStripMenuItem.Name = "CloseToolStripMenuItem"
-        Me.CloseToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.CloseToolStripMenuItem.Size = New System.Drawing.Size(103, 22)
         Me.CloseToolStripMenuItem.Text = "&Close"
         '
         'dgvPayments
@@ -79,20 +79,6 @@ Partial Class AllPaymentsForm
         Me.dgvPayments.RowHeadersVisible = False
         Me.dgvPayments.Size = New System.Drawing.Size(452, 252)
         Me.dgvPayments.TabIndex = 1
-        '
-        'AllPaymentsDataSet
-        '
-        Me.AllPaymentsDataSet.DataSetName = "AllPaymentsDataSet"
-        Me.AllPaymentsDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema
-        '
-        'PaymentsBindingSource
-        '
-        Me.PaymentsBindingSource.DataMember = "Payments"
-        Me.PaymentsBindingSource.DataSource = Me.AllPaymentsDataSet
-        '
-        'PaymentsTableAdapter
-        '
-        Me.PaymentsTableAdapter.ClearBeforeFill = True
         '
         'LastNameDataGridViewTextBoxColumn
         '
@@ -124,6 +110,20 @@ Partial Class AllPaymentsForm
         Me.AmountDataGridViewTextBoxColumn.Name = "AmountDataGridViewTextBoxColumn"
         Me.AmountDataGridViewTextBoxColumn.ReadOnly = True
         '
+        'PaymentsBindingSource
+        '
+        Me.PaymentsBindingSource.DataMember = "Payments"
+        Me.PaymentsBindingSource.DataSource = Me.AllPaymentsDataSet
+        '
+        'AllPaymentsDataSet
+        '
+        Me.AllPaymentsDataSet.DataSetName = "AllPaymentsDataSet"
+        Me.AllPaymentsDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema
+        '
+        'PaymentsTableAdapter
+        '
+        Me.PaymentsTableAdapter.ClearBeforeFill = True
+        '
         'AllPaymentsForm
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -133,12 +133,13 @@ Partial Class AllPaymentsForm
         Me.Controls.Add(Me.MenuStrip1)
         Me.MainMenuStrip = Me.MenuStrip1
         Me.Name = "AllPaymentsForm"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent
         Me.Text = "Payments by All Members"
         Me.MenuStrip1.ResumeLayout(False)
         Me.MenuStrip1.PerformLayout()
         CType(Me.dgvPayments, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.AllPaymentsDataSet, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PaymentsBindingSource, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.AllPaymentsDataSet, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -147,9 +148,9 @@ Partial Class AllPaymentsForm
     Friend WithEvents FileToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents CloseToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents dgvPayments As System.Windows.Forms.DataGridView
-    Friend WithEvents AllPaymentsDataSet As KarateSchoolManage.AllPaymentsDataSet
+    Friend WithEvents AllPaymentsDataSet As KarateSchoolManager.AllPaymentsDataSet
     Friend WithEvents PaymentsBindingSource As System.Windows.Forms.BindingSource
-    Friend WithEvents PaymentsTableAdapter As KarateSchoolManage.AllPaymentsDataSetTableAdapters.PaymentsTableAdapter
+    Friend WithEvents PaymentsTableAdapter As KarateSchoolManager.AllPaymentsDataSetTableAdapters.PaymentsTableAdapter
     Friend WithEvents LastNameDataGridViewTextBoxColumn As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents FirstNameDataGridViewTextBoxColumn As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents PaymentDateDataGridViewTextBoxColumn As System.Windows.Forms.DataGridViewTextBoxColumn

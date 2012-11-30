@@ -28,10 +28,10 @@ Partial Class AddMemberForm
         Dim First_NameLabel As System.Windows.Forms.Label
         Dim PhoneLabel As System.Windows.Forms.Label
         Dim Date_JoinedLabel As System.Windows.Forms.Label
-        Me.AllMembersDataSet = New KarateSchoolManage.AllMembersDataSet()
+        Me.AllMembersDataSet = New KarateSchoolManager.AllMembersDataSet()
         Me.MembersBindingSource = New System.Windows.Forms.BindingSource(Me.components)
-        Me.MembersTableAdapter = New KarateSchoolManage.AllMembersDataSetTableAdapters.MembersTableAdapter()
-        Me.TableAdapterManager = New KarateSchoolManage.AllMembersDataSetTableAdapters.TableAdapterManager()
+        Me.MembersTableAdapter = New KarateSchoolManager.AllMembersDataSetTableAdapters.MembersTableAdapter()
+        Me.TableAdapterManager = New KarateSchoolManager.AllMembersDataSetTableAdapters.TableAdapterManager()
         Me.IDTextBox = New System.Windows.Forms.TextBox()
         Me.Last_NameTextBox = New System.Windows.Forms.TextBox()
         Me.First_NameTextBox = New System.Windows.Forms.TextBox()
@@ -51,6 +51,51 @@ Partial Class AddMemberForm
         Me.mnuFile.SuspendLayout()
         Me.SuspendLayout()
         '
+        'IDLabel
+        '
+        IDLabel.AutoSize = True
+        IDLabel.Location = New System.Drawing.Point(29, 40)
+        IDLabel.Name = "IDLabel"
+        IDLabel.Size = New System.Drawing.Size(21, 13)
+        IDLabel.TabIndex = 1
+        IDLabel.Text = "ID:"
+        '
+        'Last_NameLabel
+        '
+        Last_NameLabel.AutoSize = True
+        Last_NameLabel.Location = New System.Drawing.Point(29, 92)
+        Last_NameLabel.Name = "Last_NameLabel"
+        Last_NameLabel.Size = New System.Drawing.Size(61, 13)
+        Last_NameLabel.TabIndex = 3
+        Last_NameLabel.Text = "Last Name:"
+        '
+        'First_NameLabel
+        '
+        First_NameLabel.AutoSize = True
+        First_NameLabel.Location = New System.Drawing.Point(29, 66)
+        First_NameLabel.Name = "First_NameLabel"
+        First_NameLabel.Size = New System.Drawing.Size(60, 13)
+        First_NameLabel.TabIndex = 5
+        First_NameLabel.Text = "First Name:"
+        '
+        'PhoneLabel
+        '
+        PhoneLabel.AutoSize = True
+        PhoneLabel.Location = New System.Drawing.Point(29, 118)
+        PhoneLabel.Name = "PhoneLabel"
+        PhoneLabel.Size = New System.Drawing.Size(41, 13)
+        PhoneLabel.TabIndex = 7
+        PhoneLabel.Text = "Phone:"
+        '
+        'Date_JoinedLabel
+        '
+        Date_JoinedLabel.AutoSize = True
+        Date_JoinedLabel.Location = New System.Drawing.Point(29, 145)
+        Date_JoinedLabel.Name = "Date_JoinedLabel"
+        Date_JoinedLabel.Size = New System.Drawing.Size(67, 13)
+        Date_JoinedLabel.TabIndex = 9
+        Date_JoinedLabel.Text = "Date Joined:"
+        '
         'AllMembersDataSet
         '
         Me.AllMembersDataSet.DataSetName = "AllMembersDataSet"
@@ -69,16 +114,7 @@ Partial Class AddMemberForm
         '
         Me.TableAdapterManager.BackupDataSetBeforeUpdate = False
         Me.TableAdapterManager.MembersTableAdapter = Me.MembersTableAdapter
-        Me.TableAdapterManager.UpdateOrder = KarateSchoolManage.AllMembersDataSetTableAdapters.TableAdapterManager.UpdateOrderOption.InsertUpdateDelete
-        '
-        'IDLabel
-        '
-        IDLabel.AutoSize = True
-        IDLabel.Location = New System.Drawing.Point(29, 40)
-        IDLabel.Name = "IDLabel"
-        IDLabel.Size = New System.Drawing.Size(21, 13)
-        IDLabel.TabIndex = 1
-        IDLabel.Text = "ID:"
+        Me.TableAdapterManager.UpdateOrder = KarateSchoolManager.AllMembersDataSetTableAdapters.TableAdapterManager.UpdateOrderOption.InsertUpdateDelete
         '
         'IDTextBox
         '
@@ -88,31 +124,13 @@ Partial Class AddMemberForm
         Me.IDTextBox.Size = New System.Drawing.Size(59, 20)
         Me.IDTextBox.TabIndex = 0
         '
-        'Last_NameLabel
-        '
-        Last_NameLabel.AutoSize = True
-        Last_NameLabel.Location = New System.Drawing.Point(29, 92)
-        Last_NameLabel.Name = "Last_NameLabel"
-        Last_NameLabel.Size = New System.Drawing.Size(61, 13)
-        Last_NameLabel.TabIndex = 3
-        Last_NameLabel.Text = "Last Name:"
-        '
         'Last_NameTextBox
         '
         Me.Last_NameTextBox.DataBindings.Add(New System.Windows.Forms.Binding("Text", Me.MembersBindingSource, "Last_Name", True))
         Me.Last_NameTextBox.Location = New System.Drawing.Point(102, 89)
         Me.Last_NameTextBox.Name = "Last_NameTextBox"
         Me.Last_NameTextBox.Size = New System.Drawing.Size(200, 20)
-        Me.Last_NameTextBox.TabIndex = 1
-        '
-        'First_NameLabel
-        '
-        First_NameLabel.AutoSize = True
-        First_NameLabel.Location = New System.Drawing.Point(29, 66)
-        First_NameLabel.Name = "First_NameLabel"
-        First_NameLabel.Size = New System.Drawing.Size(60, 13)
-        First_NameLabel.TabIndex = 5
-        First_NameLabel.Text = "First Name:"
+        Me.Last_NameTextBox.TabIndex = 2
         '
         'First_NameTextBox
         '
@@ -120,16 +138,7 @@ Partial Class AddMemberForm
         Me.First_NameTextBox.Location = New System.Drawing.Point(102, 63)
         Me.First_NameTextBox.Name = "First_NameTextBox"
         Me.First_NameTextBox.Size = New System.Drawing.Size(200, 20)
-        Me.First_NameTextBox.TabIndex = 2
-        '
-        'PhoneLabel
-        '
-        PhoneLabel.AutoSize = True
-        PhoneLabel.Location = New System.Drawing.Point(29, 118)
-        PhoneLabel.Name = "PhoneLabel"
-        PhoneLabel.Size = New System.Drawing.Size(41, 13)
-        PhoneLabel.TabIndex = 7
-        PhoneLabel.Text = "Phone:"
+        Me.First_NameTextBox.TabIndex = 1
         '
         'PhoneTextBox
         '
@@ -138,15 +147,6 @@ Partial Class AddMemberForm
         Me.PhoneTextBox.Name = "PhoneTextBox"
         Me.PhoneTextBox.Size = New System.Drawing.Size(200, 20)
         Me.PhoneTextBox.TabIndex = 3
-        '
-        'Date_JoinedLabel
-        '
-        Date_JoinedLabel.AutoSize = True
-        Date_JoinedLabel.Location = New System.Drawing.Point(29, 145)
-        Date_JoinedLabel.Name = "Date_JoinedLabel"
-        Date_JoinedLabel.Size = New System.Drawing.Size(67, 13)
-        Date_JoinedLabel.TabIndex = 9
-        Date_JoinedLabel.Text = "Date Joined:"
         '
         'Date_JoinedDateTimePicker
         '
@@ -176,13 +176,13 @@ Partial Class AddMemberForm
         'SaveToolStripMenuItem
         '
         Me.SaveToolStripMenuItem.Name = "SaveToolStripMenuItem"
-        Me.SaveToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.SaveToolStripMenuItem.Size = New System.Drawing.Size(143, 22)
         Me.SaveToolStripMenuItem.Text = "&Save && Close"
         '
         'CloseToolStripMenuItem
         '
         Me.CloseToolStripMenuItem.Name = "CloseToolStripMenuItem"
-        Me.CloseToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.CloseToolStripMenuItem.Size = New System.Drawing.Size(143, 22)
         Me.CloseToolStripMenuItem.Text = "&Close"
         '
         'AddMemberForm
@@ -214,10 +214,10 @@ Partial Class AddMemberForm
         Me.PerformLayout()
 
     End Sub
-    Friend WithEvents AllMembersDataSet As KarateSchoolManage.AllMembersDataSet
+    Friend WithEvents AllMembersDataSet As KarateSchoolManager.AllMembersDataSet
     Friend WithEvents MembersBindingSource As System.Windows.Forms.BindingSource
-    Friend WithEvents MembersTableAdapter As KarateSchoolManage.AllMembersDataSetTableAdapters.MembersTableAdapter
-    Friend WithEvents TableAdapterManager As KarateSchoolManage.AllMembersDataSetTableAdapters.TableAdapterManager
+    Friend WithEvents MembersTableAdapter As KarateSchoolManager.AllMembersDataSetTableAdapters.MembersTableAdapter
+    Friend WithEvents TableAdapterManager As KarateSchoolManager.AllMembersDataSetTableAdapters.TableAdapterManager
     Friend WithEvents IDTextBox As System.Windows.Forms.TextBox
     Friend WithEvents Last_NameTextBox As System.Windows.Forms.TextBox
     Friend WithEvents First_NameTextBox As System.Windows.Forms.TextBox

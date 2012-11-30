@@ -8,8 +8,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{DA30C834-E5D6-467B-968E-388369A6FBE1}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>KarateSchoolManage.My.MyApplication</StartupObject>
-    <RootNamespace>KarateSchoolManage</RootNamespace>
+    <StartupObject>KarateSchoolManager.My.MyApplication</StartupObject>
+    <RootNamespace>KarateSchoolManager</RootNamespace>
     <AssemblyName>KarateSchoolManager</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
@@ -148,6 +148,14 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="OneMemberPaymentsDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OneMemberPaymentsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="OneMemberPaymentsDataSet.vb">
+      <DependentUpon>OneMemberPaymentsDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="OneMemberPaymentsForm.Designer.vb">
       <DependentUpon>OneMemberPaymentsForm.vb</DependentUpon>
     </Compile>
@@ -177,6 +185,9 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="OneMemberPaymentsForm.resx">
+      <DependentUpon>OneMemberPaymentsForm.vb</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <None Include="AllMembersDataSet.xsc">
@@ -201,7 +212,6 @@
     <None Include="AllPaymentsDataSet.xss">
       <DependentUpon>AllPaymentsDataSet.xsd</DependentUpon>
     </None>
-    <None Include="app.config" />
     <None Include="FindMemberDataSet.xsc">
       <DependentUpon>FindMemberDataSet.xsd</DependentUpon>
     </None>
@@ -221,6 +231,17 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="OneMemberPaymentsDataSet.xsc">
+      <DependentUpon>OneMemberPaymentsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OneMemberPaymentsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>OneMemberPaymentsDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="OneMemberPaymentsDataSet.xss">
+      <DependentUpon>OneMemberPaymentsDataSet.xsd</DependentUpon>
     </None>
   </ItemGroup>
   <ItemGroup>

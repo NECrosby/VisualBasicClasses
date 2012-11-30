@@ -8,10 +8,10 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("KarateSchoolManage")> 
+<Assembly: AssemblyTitle("KarateSchoolManager")> 
 <Assembly: AssemblyDescription("")> 
 <Assembly: AssemblyCompany("Toshiba")> 
-<Assembly: AssemblyProduct("KarateSchoolManage")> 
+<Assembly: AssemblyProduct("KarateSchoolManager")> 
 <Assembly: AssemblyCopyright("Copyright © Toshiba 2012")> 
 <Assembly: AssemblyTrademark("")> 
 

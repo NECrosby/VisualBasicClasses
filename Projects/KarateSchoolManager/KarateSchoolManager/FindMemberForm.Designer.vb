@@ -30,18 +30,18 @@ Partial Class FindMemberForm
         Me.txtLastName = New System.Windows.Forms.TextBox()
         Me.btnGo = New System.Windows.Forms.Button()
         Me.dgvMembers = New System.Windows.Forms.DataGridView()
-        Me.FindMemberDataSet = New KarateSchoolManage.FindMemberDataSet()
-        Me.MembersBindingSource = New System.Windows.Forms.BindingSource(Me.components)
-        Me.MembersTableAdapter = New KarateSchoolManage.FindMemberDataSetTableAdapters.MembersTableAdapter()
         Me.IDDataGridViewTextBoxColumn = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.LastNameDataGridViewTextBoxColumn = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.FirstNameDataGridViewTextBoxColumn = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.PhoneDataGridViewTextBoxColumn = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.DateJoinedDataGridViewTextBoxColumn = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.MembersBindingSource = New System.Windows.Forms.BindingSource(Me.components)
+        Me.FindMemberDataSet = New KarateSchoolManager.FindMemberDataSet()
+        Me.MembersTableAdapter = New KarateSchoolManager.FindMemberDataSetTableAdapters.MembersTableAdapter()
         Me.MenuStrip1.SuspendLayout()
         CType(Me.dgvMembers, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.FindMemberDataSet, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.MembersBindingSource, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.FindMemberDataSet, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'MenuStrip1
@@ -111,20 +111,6 @@ Partial Class FindMemberForm
         Me.dgvMembers.Size = New System.Drawing.Size(430, 165)
         Me.dgvMembers.TabIndex = 4
         '
-        'FindMemberDataSet
-        '
-        Me.FindMemberDataSet.DataSetName = "FindMemberDataSet"
-        Me.FindMemberDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema
-        '
-        'MembersBindingSource
-        '
-        Me.MembersBindingSource.DataMember = "Members"
-        Me.MembersBindingSource.DataSource = Me.FindMemberDataSet
-        '
-        'MembersTableAdapter
-        '
-        Me.MembersTableAdapter.ClearBeforeFill = True
-        '
         'IDDataGridViewTextBoxColumn
         '
         Me.IDDataGridViewTextBoxColumn.DataPropertyName = "ID"
@@ -160,6 +146,20 @@ Partial Class FindMemberForm
         Me.DateJoinedDataGridViewTextBoxColumn.Name = "DateJoinedDataGridViewTextBoxColumn"
         Me.DateJoinedDataGridViewTextBoxColumn.ReadOnly = True
         '
+        'MembersBindingSource
+        '
+        Me.MembersBindingSource.DataMember = "Members"
+        Me.MembersBindingSource.DataSource = Me.FindMemberDataSet
+        '
+        'FindMemberDataSet
+        '
+        Me.FindMemberDataSet.DataSetName = "FindMemberDataSet"
+        Me.FindMemberDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema
+        '
+        'MembersTableAdapter
+        '
+        Me.MembersTableAdapter.ClearBeforeFill = True
+        '
         'FindMemberForm
         '
         Me.AcceptButton = Me.btnGo
@@ -173,12 +173,13 @@ Partial Class FindMemberForm
         Me.Controls.Add(Me.MenuStrip1)
         Me.MainMenuStrip = Me.MenuStrip1
         Me.Name = "FindMemberForm"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent
         Me.Text = "Find Member by Last Name"
         Me.MenuStrip1.ResumeLayout(False)
         Me.MenuStrip1.PerformLayout()
         CType(Me.dgvMembers, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.FindMemberDataSet, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.MembersBindingSource, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.FindMemberDataSet, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -196,6 +197,6 @@ Partial Class FindMemberForm
     Friend WithEvents PhoneDataGridViewTextBoxColumn As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents DateJoinedDataGridViewTextBoxColumn As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents MembersBindingSource As System.Windows.Forms.BindingSource
-    Friend WithEvents FindMemberDataSet As KarateSchoolManage.FindMemberDataSet
-    Friend WithEvents MembersTableAdapter As KarateSchoolManage.FindMemberDataSetTableAdapters.MembersTableAdapter
+    Friend WithEvents FindMemberDataSet As KarateSchoolManager.FindMemberDataSet
+    Friend WithEvents MembersTableAdapter As KarateSchoolManager.FindMemberDataSetTableAdapters.MembersTableAdapter
 End Class

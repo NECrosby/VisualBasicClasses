@@ -25,6 +25,12 @@
     End Sub
 
     Private Sub ByOneMemberToolStripMenuItem_Click(sender As System.Object, e As System.EventArgs) Handles ByOneMemberToolStripMenuItem.Click
+        Dim frmOneMemberPayments As New OneMemberPaymentsForm
+        frmOneMemberPayments.ShowDialog()
+    End Sub
 
+    Private Sub MembersByDateToolStripMenuItem_Click(sender As System.Object, e As System.EventArgs) Handles MembersByDateToolStripMenuItem.Click
+        'Dim frmMemberDates As New MemberDatesForm
+        'frmMemberDates.ShowDialog()
     End Sub
 End Class
