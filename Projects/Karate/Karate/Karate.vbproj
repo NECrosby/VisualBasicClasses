@@ -15,6 +15,7 @@
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -27,7 +28,6 @@
     <MapFileExtensions>true</MapFileExtensions>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
@@ -87,11 +87,56 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddMemberForm.Designer.vb">
+      <DependentUpon>AddMemberForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddMemberForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllMembersForm.Designer.vb">
+      <DependentUpon>AllMembersForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AllMembersForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllPaymentsForm.Designer.vb">
+      <DependentUpon>AllPaymentsForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AllPaymentsForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatesDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DatesDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FindMemberDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FindMemberDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FindMemberForm.Designer.vb">
+      <DependentUpon>FindMemberForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FindMemberForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="MainForm.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="MainForm.Designer.vb">
       <DependentUpon>MainForm.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MembersDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MembersDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MembersDateForm.Designer.vb">
+      <DependentUpon>MembersDateForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MembersDateForm.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -109,10 +154,41 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="OneMemberPaymentForm.Designer.vb">
+      <DependentUpon>OneMemberPaymentForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OneMemberPaymentForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OneMemberPaymentsDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OneMemberPaymentsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentsDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PaymentsDataSet.xsd</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="AddMemberForm.resx">
+      <DependentUpon>AddMemberForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllMembersForm.resx">
+      <DependentUpon>AllMembersForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllPaymentsForm.resx">
+      <DependentUpon>AllPaymentsForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FindMemberForm.resx">
+      <DependentUpon>FindMemberForm.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MembersDateForm.resx">
+      <DependentUpon>MembersDateForm.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
@@ -120,8 +196,45 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="OneMemberPaymentForm.resx">
+      <DependentUpon>OneMemberPaymentForm.vb</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <None Include="app.config" />
+    <None Include="DatesDataSet.xsc">
+      <DependentUpon>DatesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DatesDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DatesDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DatesDataSet.xss">
+      <DependentUpon>DatesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="FindMemberDataSet.xsc">
+      <DependentUpon>FindMemberDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="FindMemberDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>FindMemberDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="FindMemberDataSet.xss">
+      <DependentUpon>FindMemberDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MembersDataSet.xsc">
+      <DependentUpon>MembersDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MembersDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MembersDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MembersDataSet.xss">
+      <DependentUpon>MembersDataSet.xsd</DependentUpon>
+    </None>
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
@@ -130,6 +243,28 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="OneMemberPaymentsDataSet.xsc">
+      <DependentUpon>OneMemberPaymentsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OneMemberPaymentsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>OneMemberPaymentsDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="OneMemberPaymentsDataSet.xss">
+      <DependentUpon>OneMemberPaymentsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PaymentsDataSet.xsc">
+      <DependentUpon>PaymentsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PaymentsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PaymentsDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PaymentsDataSet.xss">
+      <DependentUpon>PaymentsDataSet.xsd</DependentUpon>
     </None>
   </ItemGroup>
   <ItemGroup>
@@ -148,11 +283,30 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.10.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2008 Express</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
     <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
       <Visible>False</Visible>
       <ProductName>Windows Installer 3.1</ProductName>
       <Install>true</Install>
     </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Karate.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Karate_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Karate.mdf</DependentUpon>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
