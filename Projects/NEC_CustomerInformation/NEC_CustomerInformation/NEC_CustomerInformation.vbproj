@@ -112,6 +112,7 @@
     </Compile>
     <Compile Include="Person.vb" />
     <Compile Include="PreferredCustomer.vb" />
+    <Compile Include="PreferredCustomerCollectionModule.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="MainForm.resx">

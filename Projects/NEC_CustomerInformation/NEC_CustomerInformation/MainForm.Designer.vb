@@ -23,6 +23,11 @@ Partial Class MainForm
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.txtComments = New System.Windows.Forms.TextBox()
+        Me.Label9 = New System.Windows.Forms.Label()
+        Me.txtCustomerNumber = New System.Windows.Forms.TextBox()
+        Me.Label8 = New System.Windows.Forms.Label()
+        Me.chkMailingList = New System.Windows.Forms.CheckBox()
         Me.txtPhone = New System.Windows.Forms.TextBox()
         Me.Label7 = New System.Windows.Forms.Label()
         Me.txtZip = New System.Windows.Forms.TextBox()
@@ -37,25 +42,20 @@ Partial Class MainForm
         Me.Label2 = New System.Windows.Forms.Label()
         Me.txtFirstName = New System.Windows.Forms.TextBox()
         Me.Label1 = New System.Windows.Forms.Label()
-        Me.txtComments = New System.Windows.Forms.TextBox()
-        Me.Label9 = New System.Windows.Forms.Label()
-        Me.chkMailingList = New System.Windows.Forms.CheckBox()
-        Me.txtCustomerNumber = New System.Windows.Forms.TextBox()
-        Me.Label8 = New System.Windows.Forms.Label()
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
+        Me.Label13 = New System.Windows.Forms.Label()
+        Me.lblPreferredStatusInfo = New System.Windows.Forms.Label()
+        Me.txtDiscountLevel = New System.Windows.Forms.TextBox()
+        Me.Label12 = New System.Windows.Forms.Label()
         Me.txtCurrentPurchase = New System.Windows.Forms.TextBox()
         Me.Label10 = New System.Windows.Forms.Label()
         Me.txtTotalPurchases = New System.Windows.Forms.TextBox()
         Me.Label11 = New System.Windows.Forms.Label()
-        Me.txtDiscountLevel = New System.Windows.Forms.TextBox()
-        Me.Label12 = New System.Windows.Forms.Label()
-        Me.lblPreferredStatusInfo = New System.Windows.Forms.Label()
         Me.btnSaveCustomer = New System.Windows.Forms.Button()
         Me.btnRemoveCustomer = New System.Windows.Forms.Button()
         Me.btnClear = New System.Windows.Forms.Button()
         Me.btnFindCustomer = New System.Windows.Forms.Button()
         Me.btnExit = New System.Windows.Forms.Button()
-        Me.Label13 = New System.Windows.Forms.Label()
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
         Me.SuspendLayout()
@@ -87,6 +87,56 @@ Partial Class MainForm
         Me.GroupBox1.TabIndex = 14
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Personal Information"
+        '
+        'txtComments
+        '
+        Me.txtComments.ForeColor = System.Drawing.SystemColors.ControlDark
+        Me.txtComments.Location = New System.Drawing.Point(35, 284)
+        Me.txtComments.Multiline = True
+        Me.txtComments.Name = "txtComments"
+        Me.txtComments.Size = New System.Drawing.Size(230, 83)
+        Me.txtComments.TabIndex = 8
+        Me.txtComments.Text = "Please enter comments here "
+        '
+        'Label9
+        '
+        Me.Label9.AutoSize = True
+        Me.Label9.Location = New System.Drawing.Point(32, 265)
+        Me.Label9.Name = "Label9"
+        Me.Label9.Size = New System.Drawing.Size(62, 13)
+        Me.Label9.TabIndex = 19
+        Me.Label9.Text = "Comments: "
+        '
+        'txtCustomerNumber
+        '
+        Me.txtCustomerNumber.BackColor = System.Drawing.SystemColors.ControlLightLight
+        Me.txtCustomerNumber.Enabled = False
+        Me.txtCustomerNumber.Location = New System.Drawing.Point(129, 33)
+        Me.txtCustomerNumber.Name = "txtCustomerNumber"
+        Me.txtCustomerNumber.ReadOnly = True
+        Me.txtCustomerNumber.Size = New System.Drawing.Size(100, 20)
+        Me.txtCustomerNumber.TabIndex = 27
+        '
+        'Label8
+        '
+        Me.Label8.AutoSize = True
+        Me.Label8.Location = New System.Drawing.Point(32, 36)
+        Me.Label8.Name = "Label8"
+        Me.Label8.Size = New System.Drawing.Size(91, 13)
+        Me.Label8.TabIndex = 28
+        Me.Label8.Text = "Customer Number"
+        Me.Label8.TextAlign = System.Drawing.ContentAlignment.TopRight
+        '
+        'chkMailingList
+        '
+        Me.chkMailingList.AutoSize = True
+        Me.chkMailingList.Location = New System.Drawing.Point(88, 241)
+        Me.chkMailingList.Name = "chkMailingList"
+        Me.chkMailingList.Size = New System.Drawing.Size(141, 17)
+        Me.chkMailingList.TabIndex = 7
+        Me.chkMailingList.Text = "Please add to mailing list"
+        Me.chkMailingList.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.chkMailingList.UseVisualStyleBackColor = True
         '
         'txtPhone
         '
@@ -212,56 +262,6 @@ Partial Class MainForm
         Me.Label1.Text = "First Name"
         Me.Label1.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
-        'txtComments
-        '
-        Me.txtComments.ForeColor = System.Drawing.SystemColors.ControlDark
-        Me.txtComments.Location = New System.Drawing.Point(35, 284)
-        Me.txtComments.Multiline = True
-        Me.txtComments.Name = "txtComments"
-        Me.txtComments.Size = New System.Drawing.Size(230, 83)
-        Me.txtComments.TabIndex = 8
-        Me.txtComments.Text = "Please enter comments here "
-        '
-        'Label9
-        '
-        Me.Label9.AutoSize = True
-        Me.Label9.Location = New System.Drawing.Point(32, 265)
-        Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(62, 13)
-        Me.Label9.TabIndex = 19
-        Me.Label9.Text = "Comments: "
-        '
-        'chkMailingList
-        '
-        Me.chkMailingList.AutoSize = True
-        Me.chkMailingList.Location = New System.Drawing.Point(88, 241)
-        Me.chkMailingList.Name = "chkMailingList"
-        Me.chkMailingList.Size = New System.Drawing.Size(141, 17)
-        Me.chkMailingList.TabIndex = 7
-        Me.chkMailingList.Text = "Please add to mailing list"
-        Me.chkMailingList.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.chkMailingList.UseVisualStyleBackColor = True
-        '
-        'txtCustomerNumber
-        '
-        Me.txtCustomerNumber.BackColor = System.Drawing.SystemColors.ControlLightLight
-        Me.txtCustomerNumber.Enabled = False
-        Me.txtCustomerNumber.Location = New System.Drawing.Point(129, 33)
-        Me.txtCustomerNumber.Name = "txtCustomerNumber"
-        Me.txtCustomerNumber.ReadOnly = True
-        Me.txtCustomerNumber.Size = New System.Drawing.Size(100, 20)
-        Me.txtCustomerNumber.TabIndex = 27
-        '
-        'Label8
-        '
-        Me.Label8.AutoSize = True
-        Me.Label8.Location = New System.Drawing.Point(32, 36)
-        Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(91, 13)
-        Me.Label8.TabIndex = 28
-        Me.Label8.Text = "Customer Number"
-        Me.Label8.TextAlign = System.Drawing.ContentAlignment.TopRight
-        '
         'GroupBox2
         '
         Me.GroupBox2.Controls.Add(Me.Label13)
@@ -278,6 +278,49 @@ Partial Class MainForm
         Me.GroupBox2.TabIndex = 15
         Me.GroupBox2.TabStop = False
         Me.GroupBox2.Text = "Preferred Customers"
+        '
+        'Label13
+        '
+        Me.Label13.AutoSize = True
+        Me.Label13.Location = New System.Drawing.Point(28, 119)
+        Me.Label13.Name = "Label13"
+        Me.Label13.Size = New System.Drawing.Size(90, 13)
+        Me.Label13.TabIndex = 37
+        Me.Label13.Text = "Discount Details: "
+        '
+        'lblPreferredStatusInfo
+        '
+        Me.lblPreferredStatusInfo.BackColor = System.Drawing.SystemColors.ButtonHighlight
+        Me.lblPreferredStatusInfo.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.lblPreferredStatusInfo.Location = New System.Drawing.Point(31, 138)
+        Me.lblPreferredStatusInfo.MinimumSize = New System.Drawing.Size(225, 115)
+        Me.lblPreferredStatusInfo.Name = "lblPreferredStatusInfo"
+        Me.lblPreferredStatusInfo.Padding = New System.Windows.Forms.Padding(5)
+        Me.lblPreferredStatusInfo.Size = New System.Drawing.Size(230, 115)
+        Me.lblPreferredStatusInfo.TabIndex = 36
+        Me.lblPreferredStatusInfo.Text = "Current discount level discription." & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Amount needed to get to next discount leve" & _
+    "l."
+        '
+        'txtDiscountLevel
+        '
+        Me.txtDiscountLevel.BackColor = System.Drawing.SystemColors.ControlLightLight
+        Me.txtDiscountLevel.Enabled = False
+        Me.txtDiscountLevel.Location = New System.Drawing.Point(146, 86)
+        Me.txtDiscountLevel.Name = "txtDiscountLevel"
+        Me.txtDiscountLevel.ReadOnly = True
+        Me.txtDiscountLevel.Size = New System.Drawing.Size(100, 20)
+        Me.txtDiscountLevel.TabIndex = 33
+        Me.txtDiscountLevel.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        '
+        'Label12
+        '
+        Me.Label12.AutoSize = True
+        Me.Label12.Location = New System.Drawing.Point(62, 89)
+        Me.Label12.Name = "Label12"
+        Me.Label12.Size = New System.Drawing.Size(78, 13)
+        Me.Label12.TabIndex = 34
+        Me.Label12.Text = "Discount Level"
+        Me.Label12.TextAlign = System.Drawing.ContentAlignment.TopRight
         '
         'txtCurrentPurchase
         '
@@ -317,41 +360,6 @@ Partial Class MainForm
         Me.Label11.TabIndex = 30
         Me.Label11.Text = "Total Purchases"
         Me.Label11.TextAlign = System.Drawing.ContentAlignment.TopRight
-        '
-        'txtDiscountLevel
-        '
-        Me.txtDiscountLevel.BackColor = System.Drawing.SystemColors.ControlLightLight
-        Me.txtDiscountLevel.Enabled = False
-        Me.txtDiscountLevel.Location = New System.Drawing.Point(146, 86)
-        Me.txtDiscountLevel.Name = "txtDiscountLevel"
-        Me.txtDiscountLevel.ReadOnly = True
-        Me.txtDiscountLevel.Size = New System.Drawing.Size(100, 20)
-        Me.txtDiscountLevel.TabIndex = 33
-        Me.txtDiscountLevel.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        '
-        'Label12
-        '
-        Me.Label12.AutoSize = True
-        Me.Label12.Location = New System.Drawing.Point(62, 89)
-        Me.Label12.Name = "Label12"
-        Me.Label12.Size = New System.Drawing.Size(78, 13)
-        Me.Label12.TabIndex = 34
-        Me.Label12.Text = "Discount Level"
-        Me.Label12.TextAlign = System.Drawing.ContentAlignment.TopRight
-        '
-        'lblPreferredStatusInfo
-        '
-        Me.lblPreferredStatusInfo.AutoSize = True
-        Me.lblPreferredStatusInfo.BackColor = System.Drawing.SystemColors.ButtonHighlight
-        Me.lblPreferredStatusInfo.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-        Me.lblPreferredStatusInfo.Location = New System.Drawing.Point(31, 138)
-        Me.lblPreferredStatusInfo.MinimumSize = New System.Drawing.Size(225, 115)
-        Me.lblPreferredStatusInfo.Name = "lblPreferredStatusInfo"
-        Me.lblPreferredStatusInfo.Padding = New System.Windows.Forms.Padding(5)
-        Me.lblPreferredStatusInfo.Size = New System.Drawing.Size(230, 115)
-        Me.lblPreferredStatusInfo.TabIndex = 36
-        Me.lblPreferredStatusInfo.Text = "Current discount level discription." & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Amount needed to get to next discount leve" & _
-    "l."
         '
         'btnSaveCustomer
         '
@@ -402,15 +410,6 @@ Partial Class MainForm
         Me.btnExit.TabIndex = 4
         Me.btnExit.Text = "E&xit"
         Me.btnExit.UseVisualStyleBackColor = True
-        '
-        'Label13
-        '
-        Me.Label13.AutoSize = True
-        Me.Label13.Location = New System.Drawing.Point(28, 119)
-        Me.Label13.Name = "Label13"
-        Me.Label13.Size = New System.Drawing.Size(90, 13)
-        Me.Label13.TabIndex = 37
-        Me.Label13.Text = "Discount Details: "
         '
         'MainForm
         '
